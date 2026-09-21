@@ -1,0 +1,34 @@
+---
+area: Estudos Gerais
+tags: []
+subarea: Artigos e Papers
+---
+# [Vigencia de la CELAC en la era de la desglobalización](https://revistafal.com/vigencia-de-la-celac-en-la-era-de-la-desglobalizacion/)
+
+29 abril, 2025 • [Artículos](https://revistafal.com/category/articulos/), [CESPEM](https://revistafal.com/category/cespem/), [Latinoamérica](https://revistafal.com/category/regiones/latinoamerica/), [Portada](https://revistafal.com/category/portada/) • Vistas: 1022
+
+[![](https://revistafal.com/wp-content/uploads/2025/04/Arguelles-CELAC-FOTO-01-La-Politica-Online.jpg)](https://revistafal.com/wp-content/uploads/2025/04/Arguelles-CELAC-FOTO-01-La-Politica-Online.jpg)
+
+**Abril 2025**
+
+**Una colaboración del** [**Centro de Enseñanza y Análisis sobre la Política Exterior de México (CESPEM)**](https://www.cespem.mx/)
+
+La Comunidad de Estados Latinoamericanos y Caribeños (CELAC) es un proceso intergubernamental de diálogo y de concertación política creado en la Cumbre de la Unidad de América Latina y el Caribe, celebrada en Cancún, México, en 2010. El mecanismo agrupa a 33 Estados de la región, pero excluye a Canadá y Estados Unidos. Su existencia se justifica para sustentar la cooperación regional y formar una institución alterna a la Organización de los Estados Americanos (OEA). La evolución de esta unidad de países se remonta al Grupo Contadora, con Colombia, México, Panamá y Venezuela como miembros, para mediar en el conflicto centroamericano en 1983. En 1985, los países de apoyo a Contadora, Grupo de Lima o de los 8 fue integrado por Argentina, Brasil, Perú y Uruguay. Alán García, Presidente de Perú de 1985 a 1990, impulsó su creación, convirtiéndose en el Grupo de Río en 1990.
+
+Es decir, la integración en Latinoamérica viene de un proceso que ya supera los 60 años. La CELAC tiene como metas avanzar en el camino gradual de integración de los más de 650 millones de habitantes de Latinoamérica. Los temas principales sobre los que trabaja son el desarrollo social, la educación, el desarme nuclear, la agricultura familiar, la cultura, las finanzas, la energía, el medio ambiente y la migración. La CELAC presenta objetivos comunes con otros bloques del área, pues los miembros de diferentes procesos también forman parte del mecanismo. Esto coincide con el esquema del “tazón de espagueti”, que se describe como la interacción que hay entre los Estados y los instrumentos regionales en Latinoamérica y otras regiones, que al mismo tiempo impulsan temas de cooperación Sur-Sur.
+
+La CELAC busca ser un eje articulador de consensos con la finalidad de construir puentes de diálogo con otros espacios geoeconómicos. Este mecanismo ya es un interlocutor y se presenta como la voz unificada de la región en el mundo. En este contexto, la agrupación ha celebrado diálogos con la Unión Europea, el Foro CELAC-China, Rusia, Corea del Sur, el Consejo de Cooperación de los Estados Árabes del Golfo, la Liga Árabe, Turquía y Japón. Su intensa actividad diplomática busca posicionar a Latinoamérica en las principales discusiones internacionales para llevar el desarrollo, el crecimiento y la prosperidad a la región del extremo occidente.
+
+En 2010, la CELAC inicialmente mostró una tendencia diferente. Era el único instrumento que involucraba a los 33 Estados de Latinoamérica en el regionalismo posliberal. La CELAC todavía es un proceso de concertación en crecimiento. El debate existe en torno a los resultados y a la perspectiva del mecanismo.
+
+>  _El esquema debe actualizarse en los grandes temas que interesan a la región y asegurar su permanencia en el tiempo._
+
+Por un lado, hechos recientes dan cuenta de que es un esquema positivo que lleva nueve cumbres celebradas. En la última cumbre, celebrada en Honduras en abril de 2025, los Estados miembros abordaron temas, además de los mencionados, como energía, salud, autosuficiencia sanitaria, seguridad alimentaria, cambio climático, pueblos indígenas, afrodescendientes, ciencia, tecnología, innovación, conectividad, infraestructura, comercio, inversión, delincuencia organizada transnacional e igualdad de género. Al final de la reunión, los países miembros adoptaron la Declaración de Tegucigalpa, en la que reconocieron a América Latina y el Caribe como zona de paz; eso incluye el respeto a los principios de la Carta de la Organización de las Naciones Unidas y al Derecho Internacional. También, la declaración aborda la cooperación, la democracia, el Estado de derecho, el multilateralismo, la protección de los derechos humanos, la autodeterminación, la no injerencia en los asuntos internos, la soberanía y la integridad territorial. (Telesur TV, “Concluye IX Cumbre de la CELAC con firma de la Declaración de Tegucigalpa”, 10 de abril de 2025). Sin embargo, algunas veces los miembros han mostrado discrepancias, incluso en esta última reunión.
+
+Pero, por otro lado, hay que señalar que el esquema debe actualizarse en los grandes temas que interesan a la región y asegurar su permanencia en el tiempo.
+
+Algunos observadores aseguran que la CELAC se puede convertir en otro espacio sobrecargado de agendas sectoriales. Entonces, ¿hasta dónde este proyecto de concertación y de diálogo puede operar como facilitador y ordenador del tipo de cooperación internacional Norte-Sur y Sur-Sur, y a partir de que el libre comercio se ha visto rebasado por la imposición de aranceles de Estados Unidos? (Nivia-Ruiz, Fernando; Prieto-Cardozo, Jorge Enrique, “La Comunidad de Estados Latinoamericanos y Caribeños-CELAC: Más allá de la integración ¿una nueva posibilidad de cooperación regional?, en _Revista Internacional de Cooperación y Desarrollo,_ vol. 1, núm. 1, enero-junio 2014, p. 35.)
+
+En conclusión, el regionalismo en Latinoamérica sigue renovándose. Esto se puede interpretar de dos maneras. La primera que, aun cuando varios esquemas de integración no prosperaron por diferentes razones, como la falta de democracia, los intereses divergentes o el poco compromiso de sus miembros, la región sigue intentando unirse en una época de desglobalización. La segunda es que Latinoamérica busca ser una región que impulse mecanismos innovadores como la CELAC.
+
+**CARLOS GABRIEL ARGÜELLES ARREDONDO es doctor en Estudios del Desarrollo Global por la Universidad Autónoma de Baja California (UABC), maestro en Relaciones Internacionales por la Universidad Laval, Quebec, y licenciado en Relaciones Internacionales por la Universidad Nacional Autónoma de México (UNAM). Es profesor-investigador en el Instituto de Estudios Internacionales Isidro Fabela de la Universidad del Mar (UMAR). Es miembro del Centro de Enseñanza y Análisis sobre la Política Exterior de México (CESPEM).**

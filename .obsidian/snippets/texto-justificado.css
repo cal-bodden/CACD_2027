@@ -1,0 +1,11 @@
+/* Justificar texto no Modo de Leitura */
+.markdown-preview-view p {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+/* Justificar texto no Modo de Edição (Live Preview) */
+.markdown-source-view.mod-cm6 .cm-line {
+    text-align: justify;
+    text-justify: inter-word;
+}

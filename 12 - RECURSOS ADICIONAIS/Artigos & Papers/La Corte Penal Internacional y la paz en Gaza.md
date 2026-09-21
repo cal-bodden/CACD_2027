@@ -1,0 +1,29 @@
+---
+area: Estudos Gerais
+tags: []
+subarea: Artigos e Papers
+date: 2025-06-16
+---
+**Mayo 2024**
+
+La iniciativa del Fiscal de la Corte Penal Internacional (CPI), Karim Khan, de buscar perseguir conjuntamente a tres dirigentes de Hamás y a dos altos mandos israelíes sacudirá los debates internacionales durante los próximos meses. Previamente, en enero de 2024, Chile y México solicitaron a la CPI que investigara la posible comisión de crímenes en el conflicto entre Israel y los militantes de Hamás en la Franja de Gaza. El Fiscal quiere el enjuiciamiento de los líderes de ambos bandos por su actuación en la guerra que empezó el 7 de octubre de 2023, pues dice haber encontrado suficientes elementos para establecer que se cometieron crímenes de guerra y crímenes contra la humanidad. Cualquiera que sea la conclusión, constituirá un precedente indeleble para el futuro de la guerra actual y de todos los otros conflictos en el mundo, así como para el Derecho Internacional. Sin duda, estas acciones ponen a la CPI en el centro de atención, pero queda por verse si favorece a la paz.
+
+El mundo entero ha condenado las masacres, las violaciones y los secuestros de civiles israelíes por parte de Hamás, y es difícil dudar que su persecución vaya en contra del Derecho Internacional. Sin embargo, lo que es realmente debatible es la solicitud en contra de los dirigentes israelíes, el primer ministro Benjamín Netanyahu y su ministro de Defensa Yoav Gallant. Es inaudito por lo menos por tres razones. Por primera vez en su historia, la CPI inicia un procedimiento en contra de un Estado democrático, que se considera parte de Occidente y que no es el agresor, sino el agredido.
+
+La apuesta de Khan es arriesgada y posiblemente contraproducente por varias razones. Poner en la misma canasta a Hamás (un movimiento islamista que, en el mejor de los casos, se puede considerar como dictatorial y violento contra sus propios ciudadanos y que cometió las peores masacres contra judíos desde la Segunda Guerra Mundial) y a un Estado democrático, miembro de la Organización de las Naciones Unidas, aun si su actuar en Gaza es criticable, responde a una preocupación de equilibrio discutible.
+
+Recordemos que, desde hace años, el conjunto de países occidentales califica a Hamás como una organización terrorista. Ahora, de manera más profunda, se vuelca contra Israel, precisamente el país por el cual se forjaron los conceptos de crímenes contra la humanidad y genocidio. Los israelíes consideran unánimemente que se trata de una violenta inversión de la realidad, que transforma a la víctima en verdugo y justifica acciones violentas con consecuencias trágicas.
+
+>  _Veremos si la iniciativa de Khan contribuye, como lo pretende, a la protección de los civiles palestinos, a la legitimación de la justicia internacional y a la consecución de la paz._
+
+La solicitud de Khan se presentó la misma semana en la que se descubrieron los cadáveres de cuatro rehenes en un túnel de Jabalia, atacado de nuevo por el ejército israelí; en la que el Ministro de Defensa se opuso a Netanyahu en su deseo de permanecer en Gaza después de una eventual victoria contra Hamás; en la que Benny Gantz, el número dos del gabinete de guerra israelí lanzó un ultimato al mismo Primer Ministro para que elabore un programa para el día siguiente de la guerra, y en la que en todo el país se realizaron manifestaciones masivas para convocar a nuevas elecciones. Ante estos retos, Netanyahu se ve paradójicamente reforzado por la CPI, pues, contra la acusación de Khan, se beneficia casi milagrosamente del apoyo de todos los partidos y de la sociedad israelí en su conjunto.
+
+También, de entrada, esta acusación garantiza la hostilidad y el rechazo inmediato de Estados Unidos y de la mayoría de los países occidentales, en particular los europeos. Además, deslegitima así cualquier decisión final de fondo sobre el actuar de los dirigentes y del ejército israelí.
+
+En cambio, se trata de una victoria simbólica para Hamás y sus aliados. Claro que el jefe militar de Hamás y su primer adjunto Mohamed Deif y Yahya Sinwar, quienes siguen la lucha desde sus túneles en Gaza, y el jefe político Ismail Haniya, quien vive entre Doha e Estambul, están acusados individualmente, pero su esperanza de seguir en libertad, e incluso con vida, es de cualquier forma ínfima. Es difícil imaginar que Israel los entregue a un tribunal internacional que no reconoce, y que ahora considera como ilegitimo. En cambio, su organización, Hamas, adquiere el mismo estatus que Israel, al menos en la solicitud conjunta del Fiscal.
+
+Sin duda, es necesario proteger a los civiles, pero la iniciativa del Fiscal también se contrapone a los esfuerzos de legítima defensa de Israel en plena guerra. Promueve más su aceleración que su cese, sobre todo en los días que vienen. Cuestiona también los esfuerzos de cualquier democracia de defenderse contra movimientos terroristas que no juegan con las mismas reglas, como es el caso del Estado Islámico y Al Qaeda, que siguen muy activos en Asia y África. Ahora, Estados Unidos, Europa y la India, que arman a Israel, podrían ser los próximos acusados.
+
+Las tres juezas que tendrán que validar la solicitud del Fiscal (una de ellas mexicana, y las otras dos de Rumania y Benín), tienen una tarea casi imposible. Nadie saldrá satisfecho con las conclusiones, pues serán distorsionadas e interpretadas según los intereses de cada uno. Veremos si la iniciativa de Khan contribuye, como lo pretende, a la protección de los civiles palestinos, a la legitimación de la justicia internacional y a la consecución de la paz.
+
+**STÉPHAN SBERRO es doctor en Ciencias Políticas por la Université Sorbonne-Nouvelle. Fue Jefe del Departamento Académico de Estudios Internacionales del ITAM.**

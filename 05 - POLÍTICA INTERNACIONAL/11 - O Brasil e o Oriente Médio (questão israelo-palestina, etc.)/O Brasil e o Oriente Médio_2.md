@@ -1,0 +1,204 @@
+---
+title: O Brasil e o Oriente Médio
+area: O Brasil e o Oriente Médio (questão israelo-palestina, etc.)
+subarea: O Brasil e o Oriente Médio (questão israelo-palestina, etc.)
+tags:
+- cacd-2025
+- o-brasil-e-o-oriente-medio
+- politica-internacional
+---
+# Divergência e Continuidade: Uma Análise da Política Externa Brasileira para o Oriente Médio sob as Administrações Bolsonaro e Lula (2018-2025)
+
+## Introdução
+
+A política externa brasileira para o Oriente Médio tem sido historicamente guiada por uma doutrina de pragmatismo equidistante. Essa abordagem tradicional, consolidada ao longo de décadas, buscava um delicado equilíbrio: por um lado, a defesa da causa palestina no âmbito do direito internacional, notadamente a solução de dois Estados; por outro, a manutenção de relações produtivas e desideologizadas com todos os atores regionais, incluindo Israel e o Irã. Os pilares dessa política eram os princípios da não intervenção, do multilateralismo e, acima de tudo, a busca por interesses econômicos concretos, uma filosofia encapsulada na expressão "diplomacia do interesse nacional". Esta estratégia permitiu ao Brasil posicionar-se como um ator confiável e um parceiro comercial para nações com interesses e alinhamentos geopolíticos divergentes, maximizando suas oportunidades econômicas sem se enredar em conflitos locais.
+
+O período de 2018 a meados de 2025, no entanto, representa um desvio dramático e uma subsequente, embora turbulenta, tentativa de retorno a essa tradição. A administração de Jair Bolsonaro (2019-2022) iniciou uma ruptura ideológica radical, realinhando o Brasil com o eixo geopolítico formado pelos Estados Unidos sob Donald Trump e Israel sob Benjamin Netanyahu. Contudo, essa inflexão foi fundamentalmente limitada pelo poder estrutural do agronegócio brasileiro, cujos interesses vitais exigiam a continuidade do comércio com o mundo árabe, criando uma tensão constante entre a retórica presidencial e a práxis econômica. Em contraste, a terceira administração de Luiz Inácio Lula da Silva (a partir de 2023) tem implementado uma política explícita de "reconstrução", com o objetivo de restaurar as credenciais universalistas do Brasil no cenário global. O conflito entre Israel e o Hamas, deflagrado em outubro de 2023, emergiu como o crisol definidor dessa política reconstruída, servindo de catalisador para uma grave crise diplomática com Israel e transformando a questão em um dos principais eixos da polarização política doméstica no Brasil.
+
+Este relatório analisa a evolução da política externa brasileira para o Oriente Médio durante essas duas administrações contrastantes. A análise está estruturada em cinco seções. A primeira examina o pilar comercial, argumentando que os interesses econômicos, especialmente do agronegócio, impuseram uma continuidade pragmática que transcendeu as mudanças ideológicas. A segunda seção disseca os acordos estratégicos, demonstrando como sua motivação e resultados refletem as orientações políticas dos governos que os promoveram. As seções três e quatro oferecem análises aprofundadas das administrações Bolsonaro e Lula, respectivamente, detalhando suas políticas, ações e legados. Finalmente, o relatório apresenta uma síntese comparativa e um panorama das perspectivas futuras, avaliando os desafios e oportunidades para a diplomacia brasileira na região até meados de 2025 e no ciclo eleitoral de 2026.
+
+## I. O Pilar Comercial: A Primazia do Pragmatismo sobre a Ideologia
+
+Apesar das profundas alterações ideológicas na cúpula do poder executivo brasileiro, os interesses econômicos subjacentes, com destaque para o setor do agronegócio, funcionaram como uma poderosa força de continuidade nas relações comerciais do Brasil com o Oriente Médio. Esta seção argumenta que a estrutura do comércio bilateral, fortemente ancorada nas exportações de commodities agrícolas para o mundo árabe, estabeleceu limites intransponíveis para as ambições ideológicas da política externa, forçando um grau de pragmatismo em ambas as administrações.
+
+### 1.1. Dinâmicas Comerciais em Nível Macro (2018-2024): Uma Relação Duradoura
+
+Os dados agregados do comércio exterior brasileiro revelam uma relação comercial consistentemente robusta e crescente com o Oriente Médio. Durante o período analisado, as vendas externas para a região registraram um aumento significativo de 7,3%, um indicador claro da crescente importância do Oriente Médio como mercado de destino para os produtos brasileiros.7 Este crescimento não foi um evento isolado, mas parte de uma tendência sustentada que culminou em um superávit comercial recorde para o Brasil com as nações árabes, sublinhando a vitalidade econômica dessa parceria e sua relevância para a balança comercial geral do país.8
+
+A natureza da relação comercial é de interdependência estratégica. Enquanto o Brasil se consolida como um fornecedor crucial de alimentos, suas importações da região são dominadas por commodities essenciais para a sua própria economia, notadamente fertilizantes e produtos petrolíferos.9 Essa troca de bens estratégicos cria um vínculo estrutural que incentiva a estabilidade e a previsibilidade nas relações, independentemente das flutuações políticas.
+
+### 1.2. O Nexo do Agronegócio: A Âncora da Política Brasileira
+
+O agronegócio funciona como a base inegociável da política brasileira para o Oriente Médio. O poder econômico e a influência política do setor no Brasil transformam seus mercados de exportação em um interesse nacional vital, que nenhum governo pode se dar ao luxo de ignorar. A narrativa do Brasil como um protagonista na segurança alimentar global é um ativo diplomático e comercial central, especialmente em uma região que depende fortemente da importação de alimentos.11
+
+Uma análise detalhada dos dados de exportação de 2024 revela a profunda penetração dos produtos agrícolas brasileiros nos principais mercados árabes, muitos dos quais são essenciais para a certificação Halal. Os Emirados Árabes Unidos, por exemplo, figuram como um destino importante para a carne bovina fresca (5% do total exportado pelo Brasil), carne de frango (10%) e açúcar (6%). A Arábia Saudita é um mercado crítico para a carne de frango brasileira, absorvendo 8% das exportações. Outros mercados, como a Argélia, são relevantes para o óleo de soja (8%), enquanto o Irã se destaca como um grande comprador de milho (12%) e farelo de soja (9%).12 Esses números não são apenas estatísticas comerciais; eles representam os alicerces de uma relação econômica que sustenta uma parte significativa da economia brasileira e que, por sua vez, influencia diretamente as decisões de política externa.
+
+### 1.3. Uma Visão Comparativa dos Principais Parceiros Comerciais
+
+A abordagem brasileira variou em retórica, mas manteve um núcleo pragmático ao lidar com diferentes parceiros na região.
+
+- **O Mundo Árabe (Emirados Árabes Unidos, Arábia Saudita, Egito):** As relações com esses países foram marcadas por um crescimento constante e um engajamento de alto nível em ambas as administrações. O governo Lula tem buscado ativamente aprofundar esses laços, como evidenciado pelo lançamento das negociações para um acordo de livre-comércio entre o Mercosul e os Emirados Árabes Unidos em julho de 2024 13 e a celebração dos 50 anos de relações diplomáticas com o país.14 A continuidade da diplomacia comercial é visível nos esforços para abrir novos mercados, como o de algodão na Arábia Saudita 15, e para simplificar os procedimentos de exportação de carne para o Egito.17 Essas ações demonstram uma política consistente de expansão de mercado que transcende as diferenças de governo.
+    
+- **Israel:** Embora politicamente central para o governo Bolsonaro, a relação comercial com Israel permanece em uma escala consideravelmente menor em comparação com o bloco árabe. As exportações brasileiras para o país incluem produtos agrícolas como mel 19 e outras commodities.20 O ponto analítico crucial aqui é a desconexão entre o enorme capital político investido pela administração Bolsonaro na relação e os retornos econômicos mais modestos. A balança comercial, embora importante, não possui a mesma magnitude ou o mesmo peso estrutural que o comércio com as nações árabes.
+    
+- **Irã:** A relação com o Irã ilustra a divergência mais clara entre as duas administrações. Sob Bolsonaro, embora o comércio de commodities-chave como milho e farelo de soja tenha continuado por necessidade mútua 12, a relação política esfriou consideravelmente, em linha com o alinhamento do governo brasileiro com os Estados Unidos. A administração Lula, por outro lado, sinalizou uma intenção clara de reengajamento, retomando discussões sobre acordos de cooperação em áreas como trabalho e emprego.21 Esta reaproximação é consistente com a política externa dos mandatos anteriores de Lula e com sua doutrina universalista, que busca o diálogo com todos os países.22
+    
+
+A análise da dimensão comercial revela uma verdade estrutural sobre a política externa brasileira: ela não é moldada exclusivamente pela vontade do presidente, mas é fortemente condicionada por um poderoso grupo de interesse doméstico. O setor do agronegócio detém, na prática, um "poder de veto" sobre qualquer política que possa comprometer seriamente suas exportações multibilionárias para o mundo árabe. A promessa de campanha de Bolsonaro de transferir a embaixada em Israel para Jerusalém é o exemplo mais claro desse fenômeno.3 A proposta gerou uma reação imediata de importantes figuras do governo ligadas ao agronegócio, como a ministra da Agricultura da época, e do próprio vice-presidente, que alertaram para o risco de perdas econômicas significativas.3 A ameaça de um boicote por parte das nações árabes, importadoras cruciais de carne halal e outros produtos, era real e potencialmente devastadora.25 Como resultado, a promessa foi diluída: a embaixada permaneceu em Tel Aviv e, em seu lugar, foi inaugurado um escritório comercial em Jerusalém, uma solução de compromisso que evidencia como os interesses econômicos estruturais prevaleceram sobre uma das mais fortes convicções ideológicas do presidente.3
+
+Adicionalmente, observa-se que, apesar das oscilações na retórica política de alto nível, o trabalho cotidiano da diplomacia comercial — a abertura de mercados para produtos específicos, a negociação de certificações sanitárias e a promoção de negócios — continuou de forma ininterrupta em ambos os governos. A administração Bolsonaro, mesmo com seu discurso pró-Israel, celebrou a abertura de novos mercados no mundo árabe.27 O governo Lula seguiu exatamente o mesmo padrão de expansão de mercado técnica e focada em produtos.15 Isso sugere a existência de um corpo burocrático e diplomático resiliente, principalmente no Itamaraty e no Ministério da Agricultura, que opera com um grau de autonomia em relação à liderança política, focado no interesse econômico nacional de longo prazo. Essa continuidade burocrática confere estabilidade em meio à turbulência política.
+
+**Tabela 1: Balança Comercial Comparativa: Brasil com Israel vs. Países Árabes Selecionados (Valores Anuais em Bilhões de US$)**
+
+|Ano|Exportações para Israel|Importações de Israel|Saldo com Israel|Exportações para Liga Árabe|Importações da Liga Árabe|Saldo com Liga Árabe|
+|---|---|---|---|---|---|---|
+|2019|0.50|1.15|-0.65|12.20|7.30|4.90|
+|2020|0.49|1.09|-0.60|10.30|5.30|5.00|
+|2021|0.65|1.41|-0.76|14.40|9.80|4.60|
+|2022|0.89|1.81|-0.92|17.70|12.50|5.20|
+|2023|0.70|1.35|-0.65|17.50|11.50|6.00|
+
+_Fonte: Elaborado pelo autor com base em dados consolidados de comércio exterior. Os valores são aproximados para fins ilustrativos da ordem de grandeza e da tendência._
+
+_Nota: A tabela acima ilustra quantitativamente a assimetria econômica entre as relações. O volume de comércio e, mais importante, o superávit consistente e substancial com o bloco árabe, contrastam com o déficit comercial com Israel. Isso reforça visualmente o conceito do "veto do agronegócio", mostrando que os interesses econômicos em jogo com o mundo árabe são de uma magnitude muito superior, tornando uma política anti-árabe economicamente irracional e politicamente insustentável para qualquer governo brasileiro._
+
+## II. Pactos Estratégicos e Acordos: A Arquitetura do Engajamento
+
+Os acordos formais que estruturam as relações do Brasil com o Oriente Médio servem como um espelho das prioridades e da orientação política dos governos que os negociaram e implementaram. A análise desses pactos revela que a motivação por trás de sua criação — seja ela primariamente econômica e pragmática ou ideológica e simbólica — é um forte indicador de seu sucesso e de seu impacto real nas relações bilaterais.
+
+### 2.1. O Acordo de Livre-Comércio Mercosul-Egito: Um Modelo de Sucesso Pragmático
+
+O Acordo de Livre-Comércio (ALC) entre o Mercosul e o Egito, que entrou em vigor em 1º de setembro de 2017, representa um caso exemplar da diplomacia tradicional brasileira, baseada em interesses concretos e na busca por novos mercados.28 Foi o primeiro acordo do Mercosul com uma nação do continente africano, estabelecendo um cronograma gradual de desgravação tarifária para milhares de produtos.28
+
+Os resultados foram comprovadamente positivos. Um estudo da Confederação Nacional da Indústria (CNI), realizado três anos após a entrada em vigor do acordo, revelou que as exportações brasileiras para o Egito de produtos _cobertos_ pelo tratado cresceram 21.1%, enquanto as exportações de produtos _não cobertos_ caíram. No mesmo período, as importações de produtos egípcios beneficiados pelo acordo aumentaram 73.9%.30 Esses dados indicam que o ALC foi diretamente responsável por impulsionar o comércio bilateral, criando novas oportunidades para os exportadores brasileiros em setores como glicerol e materiais de construção cerâmicos.30 O acordo também beneficiou os exportadores egípcios, que ganharam competitividade no mercado brasileiro em produtos como azeitonas, batatas fritas e morangos congelados, fomentando um senso de benefício mútuo que é crucial para a sustentabilidade de uma parceria de longo prazo.31 O contínuo interesse do setor empresarial em aprofundar e acelerar a implementação do acordo demonstra que ele é visto como uma estrutura viva e bem-sucedida.30
+
+### 2.2. O Acordo de Livre-Comércio Mercosul-Israel: A Ideologia no Comando
+
+O ALC Mercosul-Israel, embora tenha entrado em vigor em 2010, ganhou proeminência política sem precedentes durante a administração Bolsonaro, sendo enquadrado como um pilar do novo alinhamento estratégico pró-Israel. No entanto, uma análise dos materiais disponíveis revela uma notável ausência de dados sobre seus resultados econômicos concretos. Documentos de portais governamentais descrevem a estrutura do acordo, os cronogramas de desgravação e as áreas cobertas, mas não oferecem um balanço de seu impacto comercial ou uma análise de custo-benefício.32
+
+Essa lacuna de informação é significativa. Um estudo acadêmico mais amplo sobre os acordos de livre-comércio do Mercosul, utilizando um modelo gravitacional para o período de 1980 a 2020, concluiu que apenas uma pequena fração (22,22%) dos acordos analisados foi comprovadamente eficaz em aumentar o comércio. Embora o estudo não isole o acordo com Israel para uma análise individual, seu resultado geral lança dúvidas sobre a eficácia automática de tais pactos, sugerindo que muitos podem ter um impacto mais simbólico do que prático.33 A falta de evidências de sucesso econômico, em forte contraste com os dados disponíveis para o acordo com o Egito, sugere que sua importância para o governo Bolsonaro era mais política do que comercial.
+
+### 2.3. Evolução das Fronteiras de Segurança e Comércio
+
+A arquitetura do engajamento brasileiro na região continuou a evoluir, refletindo as prioridades de cada governo.
+
+- **O Pacto de Segurança Brasil-Israel:** Assinado em Jerusalém em março de 2019, durante o governo Bolsonaro, este acordo previa a cooperação em segurança pública, inteligência, tecnologia e combate ao crime organizado.34 Foi um dos principais resultados da política de alinhamento com Israel. Sua tramitação no Congresso brasileiro foi politicamente carregada, com a aprovação na Câmara dos Deputados ocorrendo em 18 de outubro de 2023, poucos dias após o início do conflito entre Israel e o Hamas, o que adicionou uma camada de controvérsia à sua ratificação.34
+    
+- **Novas Iniciativas sob Lula:** A administração Lula está buscando novos acordos que espelham suas prioridades de política externa. O lançamento das negociações para um ALC entre o Mercosul e os Emirados Árabes Unidos em julho de 2024 é um movimento estratégico para aprofundar os laços com as monarquias do Golfo, parceiros econômicos de peso.13 Em um movimento que demonstra a gravidade da crise diplomática, o governo brasileiro estaria estudando, em meados de 2025, medidas para romper as relações militares com Israel, uma consequência direta do conflito político e diplomático.35 Essa consideração representa uma possível reversão direta de um dos legados da administração anterior.
+    
+
+A comparação entre os acordos com Egito e Israel sugere que a motivação original por trás de um pacto é um fator determinante para seu sucesso econômico. O ALC Mercosul-Egito foi concebido com uma lógica comercial clássica de Sul-Sul, visando conectar dois grandes mercados emergentes 28, e seus resultados quantificáveis confirmam o sucesso dessa abordagem.30 Em contrapartida, o ALC Mercosul-Israel, embora mais antigo, foi politicamente "reativado" pelo governo Bolsonaro por razões primariamente ideológicas: sinalizar um novo alinhamento geopolítico.1 A ausência de dados que celebrem seu sucesso econômico indica que acordos impulsionados por sinalização política podem cumprir um propósito simbólico, mas frequentemente não se traduzem em ganhos econômicos significativos, ou, pelo menos, a medição desses ganhos não é uma prioridade.
+
+Observa-se também uma mudança na forma como as agendas de segurança e econômica são gerenciadas. Sob Bolsonaro, houve um esforço para dissociar a agenda de segurança (o pacto com Israel) da agenda econômica (o comércio com os países árabes), a fim de administrar as contradições inerentes à sua política. Era uma estratégia de compartimentalização, onde o presidente e o chanceler cuidavam da política de alto nível enquanto o Ministério da Agricultura e o vice-presidente trabalhavam para tranquilizar os parceiros árabes.3 Sob Lula, a crise diplomática com Israel está forçando um
+
+_reacoplamento_ dessas agendas. As decisões políticas e diplomáticas, como a possível suspensão da cooperação militar com Israel, agora têm o potencial de impactar diretamente acordos de longa data, tornando a política externa mais holística e menos compartimentada, com consequências potencialmente disruptivas.
+
+**Tabela 2: Principais Acordos com Parceiros do Oriente Médio (2018-2025)**
+
+|Acordo|Parceiro(s) Chave|Data de Entrada em Vigor/Assinatura|Status/Implementação (Bolsonaro)|Status/Implementação (Lula)|Objetivo Declarado e Resultados Notáveis|
+|---|---|---|---|---|---|
+|**ALC Mercosul-Egito**|Egito|01/09/2017|Em plena implementação, com cronograma de desgravação tarifária em andamento.|Continuidade da implementação. Visto como modelo de sucesso.|**Objetivo:** Abertura de mercados. **Resultados:** Crescimento de 21.1% nas exportações brasileiras dentro do acordo nos primeiros 3 anos.30|
+|**ALC Mercosul-Israel**|Israel|28/04/2010|Elevado a pilar simbólico do alinhamento ideológico com Israel.|Mantido, mas sem destaque político. Relação ofuscada pela crise diplomática.|**Objetivo:** Abertura de mercados. **Resultados:** Ausência de dados governamentais ou estudos que comprovem impacto econômico significativo.32|
+|**Acordo de Cooperação em Segurança Brasil-Israel**|Israel|Assinado em 31/03/2019|Assinado e enviado ao Congresso. Principal marco da cooperação em segurança.|Aprovado na Câmara em out/2023. Futuro incerto devido à crise; governo estuda romper laços militares.35|**Objetivo:** Cooperação em segurança pública, inteligência e tecnologia.34|**Resultados:** Base legal para cooperação, mas implementação prática ameaçada.|
+|**ALC Mercosul-EAU (Negociação)**|Emirados Árabes Unidos|Lançamento em 07/2024|Não aplicável.|Lançamento das negociações, prioridade da agenda de "reconstrução".|**Objetivo:** Expandir o acesso ao mercado do Golfo e aprofundar laços econômicos.13|**Resultados:** Em andamento.|
+
+## III. A Administração Bolsonaro (2019-2022): Uma Ruptura Ideológica
+
+A política externa da administração de Jair Bolsonaro para o Oriente Médio representou uma ruptura historicamente sem precedentes com a tradição diplomática brasileira. Foi uma revolução em sua concepção e retórica, embora, como se verá, tenha sido incompleta em sua execução. A nova abordagem abandonou o pragmatismo equidistante em favor de um alinhamento ideológico explícito, transformando a região em um palco para a projeção de valores e alianças políticas, tanto no âmbito doméstico quanto no internacional.
+
+### 3.1. O Pivô Pró-Israel e a Questão de Jerusalém
+
+O cerne da política de Bolsonaro para o Oriente Médio foi um realinhamento deliberado e ideologicamente motivado com os Estados Unidos sob a presidência de Donald Trump e com o Israel de Benjamin Netanyahu.1 Essa mudança marcou um rompimento abrupto com a tradicional busca por autonomia do Brasil. A nova orientação se manifestou de forma clara nos padrões de votação do Brasil na Organização das Nações Unidas (ONU), onde o alinhamento com as posições dos EUA e de Israel em resoluções relativas à questão israelo-palestina aumentou em aproximadamente 40% já em 2019, com o Brasil revisando seu voto em diversos tópicos da agenda em favor de Israel.2
+
+A promessa de transferir a embaixada brasileira de Tel Aviv para Jerusalém foi o símbolo mais potente dessa nova política.26 A questão, no entanto, expôs as profundas contradições e os limites do projeto ideológico presidencial. A proposta gerou um intenso debate interno no governo, com a ala pragmática, liderada pela Ministra da Agricultura e pelo vice-presidente, alertando para as graves consequências econômicas de tal ato.3 A pressão do agronegócio, temeroso de perder acesso ao vital mercado árabe, foi decisiva. A solução encontrada foi um recuo parcial: a embaixada não foi movida, mas um "escritório de negócios, promoção comercial, investimentos e tecnologia" foi inaugurado em Jerusalém.3 Este episódio é o estudo de caso definitivo do "veto do agronegócio", demonstrando como os interesses econômicos estruturais limitaram a agenda ideológica do presidente.
+
+### 3.2. Uma Política de Via Dupla com o Mundo Árabe
+
+Apesar da forte retórica pró-Israel, a administração Bolsonaro não podia se dar ao luxo de alienar o mundo árabe. Por necessidade, o governo implementou uma política de via dupla, combinando o alinhamento ideológico com Israel com uma diplomacia pragmática e, por vezes, calorosa com os principais Estados árabes, especialmente as monarquias do Golfo. A visita de Bolsonaro aos Emirados Árabes Unidos em 2019, que resultou na assinatura de oito acordos bilaterais em áreas como defesa, inteligência artificial e comércio, é um exemplo claro dessa abordagem dual.27
+
+Esse pragmatismo era uma questão de sobrevivência econômica. A ameaça de retaliação comercial por parte das nações árabes, que poderia custar bilhões de dólares à economia brasileira, era uma preocupação constante e explícita.25 O governo foi forçado a gerenciar ativamente as consequências de sua própria retórica, com autoridades de alto nível realizando visitas e emitindo declarações para tranquilizar os parceiros árabes e garantir a continuidade dos fluxos comerciais.
+
+### 3.3. O Legado da Polarização Doméstica
+
+A política externa de Bolsonaro para o Oriente Médio não era destinada apenas a um público externo; ela foi uma ferramenta poderosa para a mobilização política doméstica. O alinhamento com Israel e a adoção de uma retórica baseada em "valores judaico-cristãos" foram projetados para apelar à crescente e influente base de eleitores evangélicos no Brasil, para quem a questão possui um significado teológico e escatológico.
+
+Isso criou um legado duradouro e tóxico: o conflito israelo-palestino tornou-se profundamente entrelaçado com as "guerras culturais" do Brasil. A bandeira de Israel tornou-se um símbolo onipresente em manifestações pró-Bolsonaro, e o apoio a Israel foi transformado em um teste de lealdade para a direita brasileira.6 O "bolsonarismo" posicionou-se consistentemente como incondicionalmente pró-Israel, explorando o tema para reforçar a identidade do movimento e contrastá-la com a suposta afinidade de Lula com a causa palestina.6 Essa instrumentalização da política externa para fins partidários preparou o terreno para a dinâmica política explosiva que se manifestaria com toda a força durante a administração Lula.
+
+A política externa de Bolsonaro para a região é melhor compreendida não como uma estratégia tradicional para maximizar o interesse nacional no exterior, mas como um instrumento de construção de identidade política em casa. As principais diretrizes da política — pró-Israel, anti-Irã, alinhamento com Trump — espelhavam os valores culturais e religiosos de sua base política central. Os custos econômicos potenciais dessa política eram altos e os benefícios econômicos diretos, comparativamente modestos, sugerindo que a maximização do interesse econômico não era o principal motor. Os elementos mais visíveis da política, como o aceno com bandeiras israelenses e a controvérsia da embaixada, tiveram mais repercussão na mídia e no discurso político brasileiro do que em realizações diplomáticas substantivas. O "público" da política era, em grande medida, doméstico.
+
+Consequentemente, a "revolução" de Bolsonaro na política externa foi, em última análise, incompleta. Foi bem-sucedida em arenas simbólicas: os votos na ONU mudaram 2, um pacto de segurança foi assinado 34 e a retórica foi transformada. No entanto, fracassou onde confrontou interesses estruturais: a embaixada não foi transferida 3 e o comércio com as nações árabes não apenas continuou, como também cresceu.8 Foi uma "revolução da superestrutura" (política, ideologia, símbolos) que não conseguiu derrubar a "base" (a estrutura econômica do comércio). É por isso que a administração Lula, ao assumir, encontrou as relações comerciais com o mundo árabe em grande parte intactas e prontas para um reengajamento político.
+
+## IV. A Administração Lula III (2023-2025): "Reconstrução" e seus Descontentamentos
+
+A terceira administração de Luiz Inácio Lula da Silva inaugurou uma nova fase para a política externa brasileira, explicitamente enquadrada como uma "reconstrução" da posição internacional do país após o que foi descrito como um período de "desmantelamento" sob o governo Bolsonaro.4 Essa agenda visava restaurar a diplomacia brasileira aos seus princípios tradicionais. No entanto, o conflito entre Israel e o Hamas, que eclodiu em outubro de 2023, não apenas testou os limites dessa política, mas também se tornou seu principal catalisador, revelando tanto as oportunidades quanto os riscos inerentes ao projeto de "reconstrução".
+
+### 4.1. Um Retorno ao Universalismo e ao Sul Global
+
+A política externa do governo Lula III foi marcada, desde o início, por um retorno ao princípio do universalismo — a capacidade de dialogar com todos os atores internacionais, independentemente de suas afiliações ideológicas — e por um foco renovado na liderança do Brasil dentro do Sul Global.2 Essa orientação se traduziu em ações imediatas para reverter o isolamento de certos países durante a gestão anterior. Houve um claro movimento de reengajamento com o Irã, com discussões para retomar acordos de cooperação 21 e um diálogo político mais aberto, em linha com a tradição universalista da diplomacia brasileira.22 Simultaneamente, o governo fortaleceu os laços com o mundo árabe através de visitas de alto nível e novas iniciativas diplomáticas e comerciais, buscando capitalizar sobre as relações econômicas já existentes.14
+
+### 4.2. O Conflito Israel-Hamas: O Momento Definidor
+
+O conflito que começou em 7 de outubro de 2023 tornou-se o teste decisivo e o principal palco da nova política externa brasileira.
+
+#### 4.2.1. O Brasil no Conselho de Segurança da ONU (Outubro de 2023)
+
+O Brasil ocupava a presidência rotativa do Conselho de Segurança da ONU (CSNU) no exato momento em que a guerra eclodiu, colocando o país no centro da diplomacia global. A delegação brasileira redigiu e negociou uma proposta de resolução que buscava um consenso mínimo: condenava "toda a violência e hostilidades contra civis e todos os atos de terrorismo", pedia a libertação imediata e incondicional de todos os reféns e solicitava pausas humanitárias para permitir o acesso de ajuda à Faixa de Gaza.38 A proposta obteve um apoio expressivo, com doze votos a favor e duas abstenções (Rússia e Reino Unido). No entanto, foi vetada pelos Estados Unidos. A justificativa americana foi que a resolução não mencionava explicitamente o "direito de autodefesa" de Israel.38 Embora tenha sido uma derrota diplomática em termos práticos, o Brasil utilizou o episódio para se posicionar como um defensor do multilateralismo e do direito humanitário, contrastando sua abordagem com o que foi retratado como a intransigência de uma grande potência.
+
+#### 4.2.2. A Ruptura Diplomática com Israel (2024)
+
+A relação bilateral com Israel, já tensa, deteriorou-se rapidamente no início de 2024, culminando em uma das mais graves crises diplomáticas da história entre os dois países.
+
+- **O Catalisador:** Em fevereiro de 2024, durante uma viagem à Etiópia, o presidente Lula comparou a ofensiva militar de Israel em Gaza ao Holocausto promovido pelo regime nazista.5
+    
+- **A Reação:** A resposta do governo israelense foi imediata e dura. O ministro das Relações Exteriores de Israel declarou Lula _persona non grata_ no país e convocou o embaixador brasileiro para uma reprimenda pública em Yad Vashem, o memorial do Holocausto em Jerusalém, um ato de forte carga simbólica.
+    
+- **A Consequência:** Em resposta, o Brasil chamou seu embaixador em Tel Aviv para consultas. Em maio de 2024, a saída definitiva do diplomata foi oficializada, e a representação diplomática brasileira em Israel foi rebaixada ao nível de encarregado de negócios.5 A crise escalou a ponto de o governo brasileiro passar a condenar publicamente ações militares israelenses contra outros países, como o Irã, em termos de violação da soberania e do direito internacional.5
+    
+
+#### 4.2.3. A Advocacia Pró-Palestina do Brasil
+
+Consolidando sua nova postura, o Brasil deu um passo significativo ao apoiar formalmente a petição da África do Sul na Corte Internacional de Justiça (CIJ), que acusava Israel de cometer atos de genocídio na Faixa de Gaza.2 Esta ação, juntamente com os persistentes apelos por um cessar-fogo permanente e pela entrada irrestrita de ajuda humanitária em diversos fóruns da ONU 41, solidificou a posição do Brasil como um dos críticos estatais mais proeminentes de Israel no cenário global.
+
+O conflito não foi um obstáculo à política de "reconstrução" de Lula; foi, na verdade, o principal veículo para sua implementação. A agenda de "reconstrução" era, inicialmente, um conceito amplo e abstrato.4 A crise no Oriente Médio forneceu um palco global de alta visibilidade onde o Brasil pôde imediatamente desempenhar o papel que almejava: o de líder multilateral (no CSNU), o de defensor do direito internacional (na CIJ) e o de voz do Sul Global.2 O confronto com Israel, embora diplomaticamente custoso, serviu para traçar uma linha clara e inequívoca entre a política de Lula e a de Bolsonaro. Foi um ato definitivo de "desbolsonarização" da política externa. A crise permitiu a Lula traduzir o slogan "O Brasil voltou" em ações concretas e controversas.
+
+Contudo, a postura firme do governo no conflito gerou um significativo "revés" doméstico, demonstrando que, no atual clima político brasileiro, a política externa não pode ser isolada da guerra partidária. Como já estabelecido, Bolsonaro forjou um forte vínculo entre seu movimento político e o sentimento pró-Israel.6 As críticas contundentes de Lula a Israel foram, portanto, interpretadas pela oposição não apenas como uma posição de política externa, mas como um ataque direto aos valores da base "bolsonarista". A oposição usou a crise de forma eficaz para mobilizar seus apoiadores, acusando Lula de antissemitismo e posicionando aliados de Bolsonaro, como os governadores Tarcísio de Freitas e Ronaldo Caiado, como os "verdadeiros" amigos de Israel, inclusive com visitas a Jerusalém para se desculparem pelas declarações do presidente.6 As ações de política externa de Lula forneceram munição potente para seus oponentes domésticos, garantindo que o Oriente Médio será um tema contencioso nas eleições municipais de 2024 e na corrida presidencial de 2026. A crise internacional foi totalmente importada para a arena política interna do Brasil.
+
+**Tabela 3: Cronologia da Crise Diplomática Brasil-Israel (Fevereiro-Junho 2024)**
+
+|Data|Evento|Ação/Declaração Brasileira|Ação/Declaração Israelense|Significado|
+|---|---|---|---|---|
+|**Fevereiro 2024**|Cúpula da União Africana|Presidente Lula compara a ação militar em Gaza ao Holocausto.5|Declara Lula _persona non grata_; convoca o embaixador brasileiro para reprimenda pública em Yad Vashem.|Ponto de ignição da crise. A comparação é considerada inaceitável por Israel, levando a uma resposta diplomática sem precedentes.|
+|**Fevereiro 2024**|Resposta à reprimenda|Brasil chama seu embaixador em Tel Aviv para consultas.|Mantém a declaração de _persona non grata_.|Escalada da crise, com o Brasil retirando seu principal representante diplomático em um sinal de profundo descontentamento.|
+|**Maio 2024**|Oficialização da mudança|Governo brasileiro oficializa a remoção definitiva do embaixador, deixando a missão sob um encarregado de negócios.5|Não há nomeação de um novo embaixador para o Brasil.|Rebaixamento formal do nível das relações diplomáticas. A ausência de embaixadores em ambos os lados consolida a crise.|
+|**Junho 2024**|Ataques no Oriente Médio|Itamaraty condena ataques aéreos israelenses contra o Irã como "clara violação à soberania".5|Críticas à postura brasileira, vista como parcial.|Brasil adota uma postura crítica não apenas em relação à questão palestina, mas às ações militares de Israel na região em geral.|
+|**Junho 2025 (projeção)**|Discussões internas|Governo brasileiro estuda medidas para romper relações militares com Israel.35|Não há reação oficial, mas a medida, se concretizada, aprofundaria a ruptura.|A crise transborda do campo diplomático para o da cooperação estratégica em defesa e segurança, ameaçando acordos prévios.|
+
+## V. Síntese Comparativa e Perspectivas Futuras até Meados de 2025
+
+A análise das políticas externas das administrações Bolsonaro e Lula para o Oriente Médio revela um período de oscilação pendular, marcado por profundas divergências doutrinárias, mas também por surpreendentes continuidades estruturais. A comparação entre os dois governos e a projeção de tendências futuras oferecem um quadro complexo dos desafios e oportunidades que se apresentam para a diplomacia brasileira na região.
+
+### 5.1. Doutrinas em Contraste: Uma Síntese
+
+A principal linha de fratura entre as duas administrações reside no propósito fundamental atribuído à política externa.
+
+- **Divergência:** Para a administração Bolsonaro, a política externa era, em essência, um **instrumento de política de identidade doméstica e de alinhamento ideológico internacional**. As decisões eram guiadas pela necessidade de consolidar uma base política conservadora e evangélica em casa e de sinalizar lealdade a um eixo geopolítico específico (EUA-Israel). Para a administração Lula, a política externa é uma **ferramenta para reconquistar influência global, reafirmar a autonomia e liderar o Sul Global**. As decisões são motivadas pelo desejo de restaurar o papel do Brasil como um ator multilateral relevante, um defensor do direito internacional e uma voz independente no cenário mundial. Essa diferença fundamental explica as trajetórias opostas na retórica, no engajamento multilateral e na escolha de parceiros prioritários.
+    
+- **Continuidade:** A principal força de continuidade é encontrada na **esfera econômica**. A importância estrutural do comércio do agronegócio com o mundo árabe atuou como um centro de gravidade, impondo um grau de pragmatismo à administração Bolsonaro, que de outra forma seria puramente ideológica, e fornecendo uma base sólida para o reengajamento diplomático da administração Lula. Em ambos os governos, a máquina da diplomacia comercial continuou a operar, abrindo mercados e gerenciando relações comerciais vitais, demonstrando que os interesses econômicos do Brasil na região são um fator estruturante que transcende as mudanças de governo.
+    
+
+### 5.2. Projetando o Futuro: Desafios e Oportunidades até 2026
+
+Olhando para o futuro, o Brasil enfrenta um cenário complexo no Oriente Médio, moldado tanto pela dinâmica regional quanto pela sua própria política interna.
+
+- **Reparando as Relações com Israel:** O caminho para a normalização das relações com Israel será longo e árduo. Com as atuais lideranças em ambos os países, uma reaproximação significativa parece improvável. A relação provavelmente permanecerá "congelada" em um nível diplomático inferior, com a representação a cargo de encarregados de negócios. Qualquer avanço dependerá de uma mudança de governo em um ou ambos os países, ou de uma mudança drástica no contexto do conflito israelo-palestino. A crise deixou cicatrizes profundas que levarão tempo para serem superadas.
+    
+- **Aprofundando Laços com o Mundo Árabe e o Irã:** O Brasil está bem posicionado para expandir sua presença econômica e política no mundo árabe e para normalizar suas relações com o Irã. A postura pró-palestina do governo Lula, embora tenha gerado a crise com Israel, também gerou um capital político considerável na "rua árabe" e junto a muitos governos da região. Esse capital pode ser traduzido em oportunidades econômicas e diplomáticas. A negociação do ALC Mercosul-EAU será um dossiê chave a ser observado, com potencial para servir de modelo para futuros acordos com outros países do Golfo.
+    
+- **A Sombra Duradoura da Política Doméstica:** O principal desafio para a política externa brasileira na região é, paradoxalmente, o cenário político doméstico. Como a análise demonstrou, o Oriente Médio tornou-se um campo de batalha na guerra cultural e política do Brasil. À medida que o ciclo eleitoral de 2026 se aproxima, cada movimento do governo na região será intensamente escrutinado e instrumentalizado pela oposição para mobilizar sua base. Isso limitará a flexibilidade do governo, podendo forçá-lo a adotar posições mais rígidas para satisfazer seus próprios apoiadores. A política para o Oriente Médio deixou de ser exclusivamente "externa"; ela é agora parte integrante e contenciosa da luta política interna do Brasil.
+    
+
+## Conclusão
+
+Em síntese, o período de 2018 a meados de 2025 foi definido por uma batalha contínua entre a ideologia presidencial e os interesses econômicos estruturais na formulação da política externa brasileira para o Oriente Médio. A revolução ideológica de Jair Bolsonaro, que buscou realinhar o Brasil de forma decisiva com Israel e os Estados Unidos, foi, em última análise, incompleta. Ela foi controlada pelo pragmatismo imposto pelo agronegócio, que dependia vitalmente dos mercados árabes e, portanto, vetou as manifestações mais radicais dessa nova política. Por outro lado, a política de "reconstrução" de Luiz Inácio Lula da Silva restaurou com sucesso a postura diplomática tradicional do Brasil, reafirmando seu compromisso com o multilateralismo e a causa palestina. No entanto, essa restauração teve um custo elevado: uma crise diplomática sem precedentes com Israel e o aprofundamento de uma polarização política interna que agora utiliza a política externa como arma.
+
+A questão fundamental para o futuro é se o Brasil conseguirá alavancar sua renovada posição no Sul Global e no mundo árabe para alcançar interesses nacionais concretos, ou se sua política externa ficará permanentemente refém da dinâmica intratável tanto do próprio conflito no Oriente Médio quanto das batalhas políticas internas do Brasil. A capacidade de navegar nessa complexa interação determinará se o "retorno" do Brasil ao cenário mundial é uma realidade sustentável ou apenas um momento fugaz, condicionado pelas marés da política doméstica e global.

@@ -1,0 +1,20 @@
+# binários e mídia
+*.pdf
+*.epub
+*.zip
+*.gif
+*.jpg
+*.jpeg
+*.mp4
+*.apkg
+# imagens grandes (>1 MB) listadas por nome
+12 - RECURSOS ADICIONAIS/Multimídia/_ZCopy/Pasted image 20250611100414.png
+# obsidian / claudian
+.obsidian/workspace*
+.obsidian/plugins/
+.obsidian/cache
+.claudian/sessions/
+# python
+__pycache__/
+*.pyc
+*.bak

@@ -1,0 +1,96 @@
+edital_id,disciplina,titulo,itens,anos,ultimo,conf_alta,resp_2026,acertos_2026,erros_2026,brancos_2026,pct_2026,estado_nota
+ECO-2,ECO,Macroeconomia,108,9,2026,81,7,4,2,1,66.7,consolidado
+HM-3,HM,As relações internacionais,82,9,2026,68,5,4,1,0,80.0,consolidado
+HB-6,HB,A Primeira República (1889-1930),65,9,2026,47,8,4,4,0,50.0,consolidado
+ECO-1,ECO,Microeconomia,64,9,2026,52,6,4,1,1,80.0,consolidado
+HM-1,HM,Estruturas e ideias econômicas,59,9,2026,41,8,3,4,1,42.9,consolidado
+HM-4,HM,"Colonialismo, imperialismo, políticas de dominação",52,9,2026,30,1,0,1,0,0.0,consolidado
+HB-7,HB,A Era Vargas (1930-1945),50,8,2026,38,3,1,1,1,50.0,consolidado
+HM-2,HM,Revoluções,49,9,2026,30,2,2,0,0,100.0,consolidado
+HB-2,HB,O processo de independência,47,8,2026,34,2,2,0,0,100.0,consolidado
+ECO-4,ECO,História econômica brasileira,46,9,2026,43,3,0,2,1,0.0,consolidado
+PI-2,PI,"A política externa brasileira: evolução desde 1945, principais vertentes e linhas de ação",45,7,2025,35,0,0,0,0,,consolidado
+HB-1,HB,O período colonial,43,7,2025,19,0,0,0,0,,consolidado
+GEO-3,GEO,Geografia econômica,39,9,2026,26,1,0,1,0,0.0,consolidado
+ECO-3,ECO,Economia internacional,37,9,2026,32,5,2,1,2,66.7,consolidado
+HM-5,HM,A evolução política e econômica nas Américas,37,8,2026,29,2,2,0,0,100.0,consolidado
+GEO-5,GEO,Geografia Urbana,36,8,2026,19,5,4,0,1,100.0,consolidado
+GEO-7,GEO,Geografia e gestão ambiental,35,8,2026,29,7,1,6,0,14.3,consolidado
+HM-6,HM,Ideias e regimes políticos,35,9,2026,18,3,1,2,0,33.3,consolidado
+GEO-2,GEO,A Geografia da população,34,8,2026,25,1,1,0,0,100.0,consolidado
+GEO-4,GEO,Geografia Agrária,34,9,2026,20,5,4,0,1,100.0,consolidado
+HB-3,HB,O Primeiro Reinado (1822-1831),34,8,2026,26,2,1,1,0,50.0,consolidado
+PI-1,PI,"Relações internacionais: conceitos básicos, atores, processos, instituições e principais paradigmas teóricos",33,9,2026,29,1,1,0,0,100.0,consolidado
+HB-5,HB,O Segundo Reinado (1840-1889),32,8,2026,21,2,2,0,0,100.0,consolidado
+HB-8,HB,A República Liberal (1945-1964),32,9,2026,24,3,0,2,1,0.0,consolidado
+PI-15,PI,"O Brasil e a formação dos blocos econômicos, a negociação de acordos comerciais e a promoção comercial",30,8,2026,25,5,4,1,0,80.0,consolidado
+GEO-6,GEO,Geografia política,27,6,2026,21,2,1,1,0,50.0,consolidado
+PI-13.2,PI,Desenvolvimento e desenvolvimento sustentável,25,7,2026,14,4,3,0,1,100.0,consolidado
+PI-13.14,PI,Reforma das Nações Unidas,23,9,2026,18,2,1,1,0,50.0,parcial
+GEO-1,GEO,História da Geografia,22,8,2026,15,2,0,2,0,0.0,consolidado
+PI-13.1,PI,O multilateralismo de dimensão universal: a ONU; as conferências internacionais; os órgãos multilaterais,22,5,2026,19,4,2,1,1,66.7,consolidado
+DIR-16,DIR,Princípios que regem o Brasil nas relações internacionais (art. 4º CF/1988),19,6,2026,16,4,2,2,0,50.0,consolidado
+HB-10,HB,O processo democrático a partir de 1985,19,8,2026,13,3,2,0,1,100.0,consolidado
+PI-3,PI,O Brasil e a América do Sul,19,7,2026,15,2,2,0,0,100.0,consolidado
+PI-6,PI,Estados Unidos da América: política externa e relações com o Brasil,19,8,2026,11,2,1,1,0,50.0,consolidado
+HB-9,HB,O Regime Militar (1964-1985),18,8,2026,15,2,0,2,0,0.0,consolidado
+PI-13.4,PI,Meio ambiente,17,7,2026,14,1,1,0,0,100.0,consolidado
+DIR-23,DIR,Fontes do DIP. Tratados internacionais. Costume Internacional. Princípios Gerais. Jurisprudência e Doutrina. Atos Unilaterais. Atos de Organizações Internacionais. Analogia e Equidade. Normas imperativas (jus cogens). Obrigações erga omnes. Soft Law. Acordos executivos. Conflito entre fontes. Incorporação de fontes extraconvencionais ao Direito brasileiro,16,7,2026,13,7,4,3,0,57.1,consolidado
+PI-12,PI,A Comunidade dos Países de Língua Portuguesa,15,8,2025,8,0,0,0,0,,consolidado
+PI-13.6,PI,"Direitos humanos e políticas de identidade: gênero, raça e religião como vetores da política mundial",15,7,2026,11,3,1,2,0,33.3,consolidado
+PI-13.8,PI,"Comércio internacional, Organização Mundial do Comércio (OMC) e cadeias globais de suprimento",15,6,2026,12,2,1,1,0,50.0,consolidado
+PI-7,PI,"União Europeia: origens, evolução histórica, estrutura e funcionamento, situação atual, política externa e relações com o Brasil",14,5,2023,13,0,0,0,0,,consolidado
+DIR-6,DIR,Organização e competências dos poderes no Direito Brasileiro,13,5,2026,9,1,1,0,0,100.0,consolidado
+PI-14,PI,O Brasil e o sistema interamericano,13,5,2026,12,1,1,0,0,100.0,consolidado
+DIR-24,DIR,Solução pacífica de controvérsias. Prática diplomática brasileira. Bons ofícios. Mediação. Investigação ou inquérito. Conciliação. Meios jurisdicionais. Arbitragem. Meios judiciais. Corte Internacional de Justiça. Outros tribunais internacionais,12,7,2026,4,3,0,3,0,0.0,consolidado
+DIR-30,DIR,Direito penal internacional. Tribunais internacionais penais. Tribunal Penal Internacional,12,4,2026,12,1,1,0,0,100.0,consolidado
+HM-7,HM,A vida cultural,12,6,2025,4,0,0,0,0,,consolidado
+DIR-28,DIR,Direito internacional dos direitos humanos. Exigibilidade. Tratados de direitos humanos ratificados pelo Brasil. Incorporação no direito brasileiro. Sistemas convencionais de petições. Conselho de Direitos Humanos. Órgãos de tratados. Sistema Interamericano de Direitos Humanos,11,6,2025,8,0,0,0,0,,consolidado
+HB-4,HB,A Regência (1831-1840),11,5,2026,9,1,1,0,0,100.0,consolidado
+HM-8,HM,"As relações internacionais no século XXI frente aos novos paradigmas digitais, as redes sociais e as modernas ferramentas tecnológicas de comunicação",11,5,2024,8,0,0,0,0,,ausente
+PI-5,PI,Relações do Brasil com os demais países do hemisfério,11,5,2026,8,3,2,1,0,66.7,consolidado
+DIR-32,DIR,Direito Internacional do Meio Ambiente. Direito Internacional do Mar. Tribunal Internacional do Direito do Mar,10,6,2026,7,1,1,0,0,100.0,consolidado
+DIR-13,DIR,Regime Jurídico dos Servidores do Serviço Exterior Brasileiro (Lei nº 11.440/2006),9,4,2025,8,0,0,0,0,,parcial
+DIR-31,DIR,Direito do comércio internacional. Organização Mundial do Comércio. Acordos. Órgão de Solução de Controvérsias. Jurisprudência,9,3,2022,7,0,0,0,0,,consolidado
+PI-13.10,PI,Desarmamento e não proliferação,9,4,2026,7,4,3,1,0,75.0,consolidado
+PI-13.13,PI,"Narcotráfico, crime transnacional e crimes cibernéticos de alcance global",9,4,2026,8,1,1,0,0,100.0,consolidado
+PI-18,PI,O Brasil e a cooperação Sul-Sul,9,4,2023,8,0,0,0,0,,consolidado
+DIR-12,DIR,"Direitos, deveres e responsabilidades do servidor público. Improbidade administrativa. Regime disciplinar e processo administrativo disciplinar",8,2,2025,7,0,0,0,0,,parcial
+PI-10,PI,O Brasil e a Ásia,8,7,2026,4,1,0,1,0,0.0,consolidado
+PI-11,PI,O Brasil e o Oriente Médio,8,4,2026,4,1,1,0,0,100.0,consolidado
+PI-13.9,PI,Sistema financeiro internacional,8,5,2025,7,0,0,0,0,,consolidado
+DIR-15,DIR,Direito Internacional. Desenvolvimento. Direito internacional Público (DIP) e o Direito Interno. Constituição e Direito Internacional. Estados federados e entes federados,7,5,2026,1,2,0,1,1,0.0,parcial
+DIR-21,DIR,Jurisdição. Relações diplomáticas e consulares. Imunidades. Responsabilidade internacional do Estado. Proteção diplomática,7,3,2026,4,2,2,0,0,100.0,consolidado
+DIR-29,DIR,Conflitos armados e o direito internacional. Direito Internacional Humanitário. Direito Internacional dos Refugiados. O instituto do refúgio no direito brasileiro,7,3,2024,4,0,0,0,0,,consolidado
+DIR-7,DIR,Processo legislativo brasileiro,7,4,2023,4,0,0,0,0,,consolidado
+ECO-5,ECO,"Bancos digitais, meios de pagamento e os desafios da transição do “dinheiro de plástico” para o “dinheiro digital” na economia do século XXI",7,4,2026,3,3,1,2,0,33.3,ausente
+DIR-3,DIR,"Constituição: conceito, classificações, primado da Constituição, controle de constitucionalidade",6,2,2023,4,0,0,0,0,,parcial
+DIR-34,DIR,Áreas além dos limites da jurisdição exclusiva dos Estados,6,3,2024,6,0,0,0,0,,consolidado
+PI-13.11,PI,"Crimes de guerra e crimes contra a humanidade: genocídio, holocausto e o Tribunal Penal Internacional",6,2,2025,4,0,0,0,0,,parcial
+DIR-20,DIR,"Povo. Nacionalidade. Formas de aquisição, perda e reaquisição. Proteção a brasileiros no exterior. Direitos e deveres de nacionais no exterior. Dupla e/ou múltipla nacionalidade. Situação jurídica do estrangeiro. Extradição. Apatridia e polipatria. Asilo",5,2,2022,5,0,0,0,0,,consolidado
+DIR-27,DIR,Uso da força. Prática diplomática brasileira. Segurança coletiva. Uso da força e direitos humanos. Operações de manutenção da paz. Desarmamento e Não Proliferação. Controle de armas. Terrorismo,5,2,2025,4,0,0,0,0,,consolidado
+PI-13.15,PI,Operações de paz das Nações Unidas,5,4,2020,1,0,0,0,0,,consolidado
+PI-16,PI,A dimensão da segurança na política exterior do Brasil,5,3,2020,4,0,0,0,0,,consolidado
+PI-8,PI,Rússia: política externa e relações com o Brasil,5,2,2019,1,0,0,0,0,,consolidado
+DIR-1,DIR,Normas jurídicas,4,2,2025,1,0,0,0,0,,parcial
+DIR-25,DIR,Organizações internacionais. Incorporação ao direito brasileiro dos atos de organizações internacionais. Organização das Nações Unidas. Agências da Organização das Nações Unidas. Organização dos Estados Americanos. Carta Democrática Interamericana. Outras organizações internacionais regionais. Direito comparado,4,3,2025,1,0,0,0,0,,consolidado
+DIR-35,DIR,Cooperação Jurídica internacional. Matéria penal e cível. Regimes vigentes no direito brasileiro,4,2,2023,3,0,0,0,0,,consolidado
+HB-11,HB,Os impactos tecnológicos e digitais nas transformações políticas e sociais do Brasil no século XXI,4,3,2025,0,0,0,0,0,,consolidado
+PI-4,PI,Argentina: política externa e relações com o Brasil,4,3,2025,1,0,0,0,0,,consolidado
+PI-9,PI,África: política externa e relações com o Brasil,4,2,2024,3,0,0,0,0,,consolidado
+DIR-19,DIR,Território. Formação do território brasileiro,3,3,2023,1,0,0,0,0,,esboco
+DIR-9,DIR,Administração Pública no Brasil. Princípios constitucionais da administração pública e dos servidores públicos. Estrutura da Administração Pública Federal. Atos administrativos. Processo e procedimento administrativo,3,2,2022,2,0,0,0,0,,parcial
+DIR-18,DIR,Estado. Surgimento e extinção de Estados. Sucessão de Estados. Direitos e Deveres. Soberania. Reconhecimento de Estado e Governo,2,2,2025,2,0,0,0,0,,consolidado
+DIR-26,DIR,Direito da Integração Regional. MERCOSUL. Relação com o Direito brasileiro. Órgão de Solução de Controvérsias. Jurisprudência,2,2,2022,1,0,0,0,0,,esboco
+DIR-33,DIR,"Direito internacional do trabalho. OIT. Convenções, recomendações e supervisão normativa",2,2,2025,0,0,0,0,0,,consolidado
+PI-13.3,PI,"Pobreza, insegurança alimentar e fome. Ações de combate à fome",2,1,2024,2,0,0,0,0,,consolidado
+PI-13.7,PI,"Migrações internacionais, migrantes, refugiados e apátridas",2,1,2018,2,0,0,0,0,,consolidado
+PI-17,PI,"O Brasil e as coalizões internacionais: o G-20, o IBAS e o BRICS",2,2,2025,1,0,0,0,0,,consolidado
+PI-19,PI,Cooperação e a diplomacia da saúde,2,2,2026,2,1,1,0,0,100.0,consolidado
+DIR-10,DIR,Licitações e contratos administrativos,1,1,2026,0,1,1,0,0,100.0,parcial
+DIR-11,DIR,Responsabilidade civil do Estado,1,1,2022,1,0,0,0,0,,consolidado
+DIR-14,DIR,Finanças públicas. Normas orçamentárias,1,1,2017,1,0,0,0,0,,parcial
+DIR-2,DIR,Personalidade jurídica,1,1,2018,1,0,0,0,0,,parcial
+DIR-22,DIR,Sujeitos especiais do Direito Internacional,1,1,2022,0,0,0,0,0,,consolidado
+DIR-4,DIR,"Estado: elementos, soberania, formas, modelos de divisão de competência com entes subnacionais, sistemas de governo",1,1,2024,0,0,0,0,0,,parcial
+DIR-5,DIR,Estado democrático de direito. Conceito e objetivos. Divisão de poderes,1,1,2017,1,0,0,0,0,,esboco

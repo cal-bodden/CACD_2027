@@ -1,0 +1,365 @@
+id,disciplina,sigla,num,nivel,titulo,objetiva,discursiva
+LP-1,Língua Portuguesa,LP,1,1,Língua portuguesa: modalidade culta usada contemporaneamente no Brasil,sim,sim
+LP-1.1,Língua Portuguesa,LP,1.1,2,"Sistema gráfico: ortografia, acentuação e pontuação; legibilidade",sim,sim
+LP-1.2,Língua Portuguesa,LP,1.2,2,Morfossintaxe,sim,sim
+LP-1.3,Língua Portuguesa,LP,1.3,2,Semântica,sim,sim
+LP-1.4,Língua Portuguesa,LP,1.4,2,Vocabulário,sim,sim
+LP-2,Língua Portuguesa,LP,2,1,Leitura e produção de textos,sim,sim
+LP-2.1,Língua Portuguesa,LP,2.1,2,"Compreensão, interpretação e análise crítica de textos escritos em língua portuguesa",sim,sim
+LP-2.2,Língua Portuguesa,LP,2.2,2,"Conhecimentos de linguística, literatura e estilística: funções da linguagem; níveis de linguagem; variação linguística; gêneros e estilos textuais; textos literários e não literários; denotação e conotação; figuras de linguagem; estrutura textual",sim,sim
+LP-2.3,Língua Portuguesa,LP,2.3,2,"Redação de textos dissertativos dotados de fundamentação conceitual e factual, consistência argumentativa, progressão temática e referencial, coerência, objetividade, precisão, clareza, concisão, coesão textual e correção gramatical",sim,sim
+LP-2.3.1,Língua Portuguesa,LP,2.3.1,3,"Defeitos de conteúdo: descontextualização, generalização, simplismo, obviedade, paráfrase, cópia, tautologia, contradição",sim,sim
+LP-2.3.2,Língua Portuguesa,LP,2.3.2,3,"Vícios de linguagem e estilo: ruptura de registro linguístico, coloquialismo, barbarismo, anacronismo, rebuscamento, redundância e linguagem estereotipada",sim,sim
+ING-1F-1,Língua Inglesa,ING,1,1,Compreensão de textos escritos em língua inglesa,sim,nao
+ING-1F-2,Língua Inglesa,ING,2,1,Itens gramaticais relevantes para compreensão dos conteúdos semânticos,sim,nao
+ING-2F-1,Língua Inglesa,ING,1,1,Redação em língua inglesa: expressão em nível avançado; domínio da gramática; qualidade e propriedade no emprego da linguagem; organização e desenvolvimento de ideias,nao,sim
+ING-2F-2,Língua Inglesa,ING,2,1,"Versão de um texto em língua portuguesa para a língua inglesa, em que serão avaliados a fidelidade ao texto-fonte, o respeito à qualidade e ao registro do texto-fonte e a correção morfossintática e lexical",nao,sim
+HB-1,História do Brasil,HB,1,1,O período colonial,sim,sim
+HB-1.1,História do Brasil,HB,1.1,2,A configuração territorial da América Portuguesa,sim,sim
+HB-1.2,História do Brasil,HB,1.2,2,As dimensões econômicas e sociais da América Portuguesa,sim,sim
+HB-2,História do Brasil,HB,2,1,O processo de independência,sim,sim
+HB-2.1,História do Brasil,HB,2.1,2,Movimentos emancipacionistas,sim,sim
+HB-2.2,História do Brasil,HB,2.2,2,A situação política e econômica europeia,sim,sim
+HB-2.3,História do Brasil,HB,2.3,2,O Brasil sede do Estado monárquico português,sim,sim
+HB-2.4,História do Brasil,HB,2.4,2,O Constitucionalismo português e a independência do Brasil,sim,sim
+HB-2.5,História do Brasil,HB,2.5,2,A influência das ideias liberais e sua repercussão no Brasil,sim,sim
+HB-3,História do Brasil,HB,3,1,O Primeiro Reinado (1822-1831),sim,sim
+HB-3.1,História do Brasil,HB,3.1,2,A Constituição de 1824,sim,sim
+HB-3.2,História do Brasil,HB,3.2,2,Quadro político interno,sim,sim
+HB-3.3,História do Brasil,HB,3.3,2,Política exterior do Primeiro Reinado,sim,sim
+HB-4,História do Brasil,HB,4,1,A Regência (1831-1840),sim,sim
+HB-4.1,História do Brasil,HB,4.1,2,Centralização versus descentralização: reformas institucionais,sim,sim
+HB-4.2,História do Brasil,HB,4.2,2,O Ato Adicional de 1834 e revoltas provinciais,sim,sim
+HB-4.3,História do Brasil,HB,4.3,2,A dimensão externa,sim,sim
+HB-5,História do Brasil,HB,5,1,O Segundo Reinado (1840-1889),sim,sim
+HB-5.1,História do Brasil,HB,5.1,2,O Estado centralizado; mudanças institucionais; os partidos políticos e o sistema eleitoral; a questão da unidade territorial,sim,sim
+HB-5.2,História do Brasil,HB,5.2,2,Política externa: as relações com a Europa e os Estados Unidos da América; questões com o Reino Unido; a Guerra do Paraguai,sim,sim
+HB-5.3,História do Brasil,HB,5.3,2,A questão da escravidão,sim,sim
+HB-5.4,História do Brasil,HB,5.4,2,Crise do Estado Monárquico,sim,sim
+HB-5.5,História do Brasil,HB,5.5,2,"Sociedade e cultura: população, estrutura social, vida acadêmica, científica e literária",sim,sim
+HB-5.6,História do Brasil,HB,5.6,2,Economia: a agroexportação; a expansão econômica e o trabalho assalariado; as políticas econômico-financeiras; a política alfandegária e suas consequências,sim,sim
+HB-6,História do Brasil,HB,6,1,A Primeira República (1889-1930),sim,sim
+HB-6.1,História do Brasil,HB,6.1,2,A proclamação da República e os governos militares,sim,sim
+HB-6.2,História do Brasil,HB,6.2,2,A Constituição de 1891,sim,sim
+HB-6.3,História do Brasil,HB,6.3,2,"O regime oligárquico: a ""política dos estados""; coronelismo; sistema eleitoral; sistema partidário; a hegemonia de São Paulo e Minas Gerais",sim,sim
+HB-6.4,História do Brasil,HB,6.4,2,A economia agroexportadora,sim,sim
+HB-6.5,História do Brasil,HB,6.5,2,A política externa: a obra de Rio Branco; a II Conferência de Paz da Haia (1907); o Brasil e a Grande Guerra de 1914; o Brasil na Liga das Nações,sim,sim
+HB-6.6,História do Brasil,HB,6.6,2,Sociedade e cultura: o Modernismo,sim,sim
+HB-6.7,História do Brasil,HB,6.7,2,A crise dos anos 20 do século XX: tenentismo e revoltas,sim,sim
+HB-6.8,História do Brasil,HB,6.8,2,A Revolução de 1930,sim,sim
+HB-7,História do Brasil,HB,7,1,A Era Vargas (1930-1945),sim,sim
+HB-7.1,História do Brasil,HB,7.1,2,O processo político e o quadro econômico financeiro,sim,sim
+HB-7.2,História do Brasil,HB,7.2,2,A Constituição de 1934,sim,sim
+HB-7.3,História do Brasil,HB,7.3,2,A Constituição de 1937: o Estado Novo,sim,sim
+HB-7.4,História do Brasil,HB,7.4,2,O contexto internacional dos anos 1930 e 1940; o Brasil e a Segunda Guerra Mundial,sim,sim
+HB-7.5,História do Brasil,HB,7.5,2,Industrialização e legislação trabalhista,sim,sim
+HB-7.6,História do Brasil,HB,7.6,2,Sociedade e cultura,sim,sim
+HB-8,História do Brasil,HB,8,1,A República Liberal (1945-1964),sim,sim
+HB-8.1,História do Brasil,HB,8.1,2,A nova ordem política: os partidos políticos e eleições; a Constituição de 1946,sim,sim
+HB-8.2,História do Brasil,HB,8.2,2,Industrialização e urbanização,sim,sim
+HB-8.3,História do Brasil,HB,8.3,2,Política externa: relações com os EUA; a Guerra Fria; a Operação Pan-Americana; a “política externa independente”; o Brasil na ONU; o Brasil no Rio da Prata; o Brasil e a suspensão de Cuba na OEA,sim,sim
+HB-8.4,História do Brasil,HB,8.4,2,Sociedade e cultura,sim,sim
+HB-9,História do Brasil,HB,9,1,O Regime Militar (1964-1985),sim,sim
+HB-9.1,História do Brasil,HB,9.1,2,A Constituição de 1967 e as modificações de 1969,sim,sim
+HB-9.2,História do Brasil,HB,9.2,2,A economia,sim,sim
+HB-9.3,História do Brasil,HB,9.3,2,"Política externa: relações com os EUA; o “pragmatismo responsável”; relações com a América Latina, relações com a África; o Brasil na ONU",sim,sim
+HB-9.4,História do Brasil,HB,9.4,2,Sociedade e cultura,sim,sim
+HB-9.5,História do Brasil,HB,9.5,2,O processo de transição política,sim,sim
+HB-10,História do Brasil,HB,10,1,O processo democrático a partir de 1985,sim,sim
+HB-10.1,História do Brasil,HB,10.1,2,A Constituição de 1988,sim,sim
+HB-10.2,História do Brasil,HB,10.2,2,Partidos políticos e eleições,sim,sim
+HB-10.3,História do Brasil,HB,10.3,2,Transformações econômicas,sim,sim
+HB-10.4,História do Brasil,HB,10.4,2,Impactos da globalização,sim,sim
+HB-10.5,História do Brasil,HB,10.5,2,Mudanças sociais,sim,sim
+HB-10.6,História do Brasil,HB,10.6,2,Manifestações culturais,sim,sim
+HB-10.7,História do Brasil,HB,10.7,2,Evolução da política externa,sim,sim
+HB-10.8,História do Brasil,HB,10.8,2,MERCOSUL,sim,sim
+HB-10.9,História do Brasil,HB,10.9,2,O Brasil na ONU,sim,sim
+HB-11,História do Brasil,HB,11,1,Os impactos tecnológicos e digitais nas transformações políticas e sociais do Brasil no século XXI,sim,sim
+HM-1,História Mundial,HM,1,1,Estruturas e ideias econômicas,sim,nao
+HM-1.1,História Mundial,HM,1.1,2,Da Revolução Industrial ao capitalismo organizado: séculos XVIII a XX,sim,nao
+HM-1.2,História Mundial,HM,1.2,2,Características gerais e principais fases do desenvolvimento capitalista (desde aproximadamente 1780),sim,nao
+HM-1.3,História Mundial,HM,1.3,2,Principais ideias econômicas: da Fisiocracia ao Liberalismo,sim,nao
+HM-1.4,História Mundial,HM,1.4,2,Marxismo,sim,nao
+HM-1.5,História Mundial,HM,1.5,2,As crises e os mecanismos anticrise: a Crise de 1929 e o New Deal,sim,nao
+HM-1.6,História Mundial,HM,1.6,2,A prosperidade no segundo pós-guerra,sim,nao
+HM-1.7,História Mundial,HM,1.7,2,Estado de bem-estar social (Welfare State) e sua crise,sim,nao
+HM-1.8,História Mundial,HM,1.8,2,O Pós-Fordismo e a acumulação flexível,sim,nao
+HM-2,História Mundial,HM,2,1,Revoluções,sim,nao
+HM-2.1,História Mundial,HM,2.1,2,A Revolução Francesa e as revoluções burguesas,sim,nao
+HM-2.2,História Mundial,HM,2.2,2,Processos de independência na América,sim,nao
+HM-2.3,História Mundial,HM,2.3,2,Conceitos e características gerais das revoluções contemporâneas,sim,nao
+HM-2.4,História Mundial,HM,2.4,2,Anarquismo,sim,nao
+HM-2.5,História Mundial,HM,2.5,2,Socialismo,sim,nao
+HM-2.6,História Mundial,HM,2.6,2,Revoluções no século XX: Rússia e China,sim,nao
+HM-2.7,História Mundial,HM,2.7,2,Revoluções na América Latina: os casos do México e de Cuba,sim,nao
+HM-3,História Mundial,HM,3,1,As relações internacionais,sim,nao
+HM-3.1,História Mundial,HM,3.1,2,Modelos e interpretações,sim,nao
+HM-3.2,História Mundial,HM,3.2,2,O Concerto Europeu e sua crise (1815-1918),sim,nao
+HM-3.3,História Mundial,HM,3.3,2,As rivalidades coloniais,sim,nao
+HM-3.4,História Mundial,HM,3.4,2,Causas da Primeira Guerra Mundial,sim,nao
+HM-3.5,História Mundial,HM,3.5,2,Os 14 pontos de Wilson,sim,nao
+HM-3.6,História Mundial,HM,3.6,2,A Paz de Versalhes e a ordem mundial resultante (1919-1939),sim,nao
+HM-3.7,História Mundial,HM,3.7,2,A Liga das Nações,sim,nao
+HM-3.8,História Mundial,HM,3.8,2,As causas da Segunda Guerra Mundial,sim,nao
+HM-3.9,História Mundial,HM,3.9,2,"As conferências de Moscou, Teerã, Ialta, Potsdam e São Francisco e a ordem mundial decorrente",sim,nao
+HM-3.10,História Mundial,HM,3.10,2,Bretton Woods,sim,nao
+HM-3.11,História Mundial,HM,3.11,2,O Plano Marshall,sim,nao
+HM-3.12,História Mundial,HM,3.12,2,A Organização das Nações Unidas,sim,nao
+HM-3.13,História Mundial,HM,3.13,2,A Guerra Fria: a noção de bipolaridade (de Truman a Nixon),sim,nao
+HM-3.14,História Mundial,HM,3.14,2,Os conflitos localizados,sim,nao
+HM-3.15,História Mundial,HM,3.15,2,A “détente”,sim,nao
+HM-3.16,História Mundial,HM,3.16,2,A “segunda Guerra Fria” (Reagan-Bush),sim,nao
+HM-3.17,História Mundial,HM,3.17,2,A crise e a desagregação do bloco soviético,sim,nao
+HM-4,História Mundial,HM,4,1,"Colonialismo, imperialismo, políticas de dominação",sim,nao
+HM-4.1,História Mundial,HM,4.1,2,O fim do colonialismo do Antigo Regime,sim,nao
+HM-4.2,História Mundial,HM,4.2,2,A nova expansão europeia,sim,nao
+HM-4.3,História Mundial,HM,4.3,2,Os debates acerca da natureza do Imperialismo,sim,nao
+HM-4.4,História Mundial,HM,4.4,2,A partilha da África e da Ásia,sim,nao
+HM-4.5,História Mundial,HM,4.5,2,"O processo de dominação e a reação na Índia, China e Japão",sim,nao
+HM-4.6,História Mundial,HM,4.6,2,A descolonização,sim,nao
+HM-4.7,História Mundial,HM,4.7,2,A Conferência de Bandung,sim,nao
+HM-4.8,História Mundial,HM,4.8,2,O Não Alinhamento,sim,nao
+HM-4.9,História Mundial,HM,4.9,2,O conceito de Terceiro Mundo,sim,nao
+HM-5,História Mundial,HM,5,1,A evolução política e econômica nas Américas,sim,nao
+HM-5.1,História Mundial,HM,5.1,2,A expansão territorial nos EUA,sim,nao
+HM-5.2,História Mundial,HM,5.2,2,A Guerra de Secessão,sim,nao
+HM-5.3,História Mundial,HM,5.3,2,A constituição das identidades nacionais e dos Estados na América Latina; militarismo e caudilhismo,sim,nao
+HM-5.4,História Mundial,HM,5.4,2,A doutrina Monroe e sua aplicação; a política externa dos EUA na América Latina,sim,nao
+HM-5.5,História Mundial,HM,5.5,2,O Pan-Americanismo,sim,nao
+HM-5.6,História Mundial,HM,5.6,2,A OEA e o Tratado do Rio de Janeiro,sim,nao
+HM-5.7,História Mundial,HM,5.7,2,As experiências de integração nas Américas,sim,nao
+HM-6,História Mundial,HM,6,1,Ideias e regimes políticos,sim,nao
+HM-6.1,História Mundial,HM,6.1,2,Grandes correntes ideológicas da política no século XIX: liberalismo e nacionalismo,sim,nao
+HM-6.2,História Mundial,HM,6.2,2,A construção dos Estados nacionais: os casos da Alemanha e da Itália,sim,nao
+HM-6.3,História Mundial,HM,6.3,2,"Grandes correntes ideológicas da política no século XX: democracia, fascismo, comunismo",sim,nao
+HM-6.4,História Mundial,HM,6.4,2,Ditaduras e regimes fascistas,sim,nao
+HM-6.5,História Mundial,HM,6.5,2,O novo nacionalismo e a questão do fundamentalismo contemporâneo,sim,nao
+HM-6.6,História Mundial,HM,6.6,2,O liberalismo no século XX,sim,nao
+HM-7,História Mundial,HM,7,1,A vida cultural,sim,nao
+HM-7.1,História Mundial,HM,7.1,2,O movimento romântico,sim,nao
+HM-7.2,História Mundial,HM,7.2,2,A cultura do imperialismo,sim,nao
+HM-7.3,História Mundial,HM,7.3,2,As vanguardas europeias,sim,nao
+HM-7.4,História Mundial,HM,7.4,2,O modernismo,sim,nao
+HM-7.5,História Mundial,HM,7.5,2,A pós-modernidade,sim,nao
+HM-8,História Mundial,HM,8,1,"As relações internacionais no século XXI frente aos novos paradigmas digitais, as redes sociais e as modernas ferramentas tecnológicas de comunicação",sim,nao
+PI-1,Política Internacional,PI,1,1,"Relações internacionais: conceitos básicos, atores, processos, instituições e principais paradigmas teóricos",sim,sim
+PI-2,Política Internacional,PI,2,1,"A política externa brasileira: evolução desde 1945, principais vertentes e linhas de ação",sim,sim
+PI-3,Política Internacional,PI,3,1,O Brasil e a América do Sul,sim,sim
+PI-3.1,Política Internacional,PI,3.1,2,Integração na América do Sul,sim,sim
+PI-3.2,Política Internacional,PI,3.2,2,O MERCOSUL: origens do processo de integração no Cone Sul,sim,sim
+PI-3.3,Política Internacional,PI,3.3,2,"Objetivos, características e estágio atual de integração",sim,sim
+PI-3.4,Política Internacional,PI,3.4,2,"As iniciativas de integração física, energética, política, econômica e de defesa na América do Sul",sim,sim
+PI-4,Política Internacional,PI,4,1,Argentina: política externa e relações com o Brasil,sim,sim
+PI-5,Política Internacional,PI,5,1,Relações do Brasil com os demais países do hemisfério,sim,sim
+PI-6,Política Internacional,PI,6,1,Estados Unidos da América: política externa e relações com o Brasil,sim,sim
+PI-7,Política Internacional,PI,7,1,"União Europeia: origens, evolução histórica, estrutura e funcionamento, situação atual, política externa e relações com o Brasil",sim,sim
+PI-8,Política Internacional,PI,8,1,Rússia: política externa e relações com o Brasil,sim,sim
+PI-9,Política Internacional,PI,9,1,África: política externa e relações com o Brasil,sim,sim
+PI-10,Política Internacional,PI,10,1,O Brasil e a Ásia,sim,sim
+PI-10.1,Política Internacional,PI,10.1,2,"China, Índia e Japão: políticas externas e relações com o Brasil",sim,sim
+PI-11,Política Internacional,PI,11,1,O Brasil e o Oriente Médio,sim,sim
+PI-11.1,Política Internacional,PI,11.1,2,A questão israelo-palestina,sim,sim
+PI-11.2,Política Internacional,PI,11.2,2,"Síria, Iraque, Irã e outras situações nacionais relevantes",sim,sim
+PI-12,Política Internacional,PI,12,1,A Comunidade dos Países de Língua Portuguesa,sim,sim
+PI-13,Política Internacional,PI,13,1,O Brasil e a agenda internacional:,sim,sim
+PI-13.1,Política Internacional,PI,13.1,2,O multilateralismo de dimensão universal: a ONU; as conferências internacionais; os órgãos multilaterais,sim,sim
+PI-13.2,Política Internacional,PI,13.2,2,Desenvolvimento e desenvolvimento sustentável,sim,sim
+PI-13.3,Política Internacional,PI,13.3,2,"Pobreza, insegurança alimentar e fome. Ações de combate à fome",sim,sim
+PI-13.4,Política Internacional,PI,13.4,2,Meio ambiente,sim,sim
+PI-13.5,Política Internacional,PI,13.5,2,"Mar, espaço e Antártida",sim,sim
+PI-13.6,Política Internacional,PI,13.6,2,"Direitos humanos e políticas de identidade: gênero, raça e religião como vetores da política mundial",sim,sim
+PI-13.7,Política Internacional,PI,13.7,2,"Migrações internacionais, migrantes, refugiados e apátridas",sim,sim
+PI-13.8,Política Internacional,PI,13.8,2,"Comércio internacional, Organização Mundial do Comércio (OMC) e cadeias globais de suprimento",sim,sim
+PI-13.9,Política Internacional,PI,13.9,2,Sistema financeiro internacional,sim,sim
+PI-13.10,Política Internacional,PI,13.10,2,Desarmamento e não proliferação,sim,sim
+PI-13.11,Política Internacional,PI,13.11,2,"Crimes de guerra e crimes contra a humanidade: genocídio, holocausto e o Tribunal Penal Internacional",sim,sim
+PI-13.12,Política Internacional,PI,13.12,2,Terrorismo,sim,sim
+PI-13.13,Política Internacional,PI,13.13,2,"Narcotráfico, crime transnacional e crimes cibernéticos de alcance global",sim,sim
+PI-13.14,Política Internacional,PI,13.14,2,Reforma das Nações Unidas,sim,sim
+PI-13.15,Política Internacional,PI,13.15,2,Operações de paz das Nações Unidas,sim,sim
+PI-14,Política Internacional,PI,14,1,O Brasil e o sistema interamericano,sim,sim
+PI-14.1,Política Internacional,PI,14.1,2,A Organização dos Estados Americanos,sim,sim
+PI-15,Política Internacional,PI,15,1,"O Brasil e a formação dos blocos econômicos, a negociação de acordos comerciais e a promoção comercial",sim,sim
+PI-16,Política Internacional,PI,16,1,A dimensão da segurança na política exterior do Brasil,sim,sim
+PI-17,Política Internacional,PI,17,1,"O Brasil e as coalizões internacionais: o G-20, o IBAS e o BRICS",sim,sim
+PI-18,Política Internacional,PI,18,1,O Brasil e a cooperação Sul-Sul,sim,sim
+PI-19,Política Internacional,PI,19,1,Cooperação e a diplomacia da saúde,sim,sim
+GEO-1,Geografia,GEO,1,1,História da Geografia,sim,sim
+GEO-1.1,Geografia,GEO,1.1,2,Expansão colonial e pensamento geográfico,sim,sim
+GEO-1.2,Geografia,GEO,1.2,2,A Geografia moderna e a questão nacional na Europa,sim,sim
+GEO-1.3,Geografia,GEO,1.3,2,As principais correntes teóricas da Geografia,sim,sim
+GEO-2,Geografia,GEO,2,1,A Geografia da população,sim,sim
+GEO-2.1,Geografia,GEO,2.1,2,Distribuição espacial da população no Brasil e no mundo,sim,sim
+GEO-2.2,Geografia,GEO,2.2,2,Os grandes movimentos migratórios internacionais e intranacionais,sim,sim
+GEO-2.3,Geografia,GEO,2.3,2,Dinâmica populacional e indicadores da qualidade de vida das populações,sim,sim
+GEO-3,Geografia,GEO,3,1,Geografia econômica,sim,sim
+GEO-3.1,Geografia,GEO,3.1,2,Globalização e divisão internacional do trabalho,sim,sim
+GEO-3.2,Geografia,GEO,3.2,2,Formação e estrutura dos blocos econômicos internacionais,sim,sim
+GEO-3.3,Geografia,GEO,3.3,2,"Energia, logística e reordenamento territorial pós-fordista",sim,sim
+GEO-3.4,Geografia,GEO,3.4,2,Disparidades regionais e planejamento no Brasil,sim,sim
+GEO-4,Geografia,GEO,4,1,Geografia Agrária,sim,sim
+GEO-4.1,Geografia,GEO,4.1,2,Distribuição geográfica da agricultura e pecuária mundiais,sim,sim
+GEO-4.2,Geografia,GEO,4.2,2,Estruturação e funcionamento do agronegócio no Brasil e no mundo,sim,sim
+GEO-4.3,Geografia,GEO,4.3,2,"Estrutura fundiária, uso da terra e relações de produção no campo brasileiro",sim,sim
+GEO-5,Geografia,GEO,5,1,Geografia Urbana,sim,sim
+GEO-5.1,Geografia,GEO,5.1,2,Processo de urbanização e formação de redes de cidades,sim,sim
+GEO-5.2,Geografia,GEO,5.2,2,"Conurbação, metropolização e cidades-mundiais",sim,sim
+GEO-5.3,Geografia,GEO,5.3,2,Dinâmica intraurbana das metrópoles brasileiras,sim,sim
+GEO-5.4,Geografia,GEO,5.4,2,O papel das cidades médias na modernização do Brasil,sim,sim
+GEO-6,Geografia,GEO,6,1,Geografia política,sim,sim
+GEO-6.1,Geografia,GEO,6.1,2,Teorias geopolíticas e poder mundial,sim,sim
+GEO-6.2,Geografia,GEO,6.2,2,Temas clássicos da geografia política: as fronteiras e as formas de apropriação política do espaço,sim,sim
+GEO-6.3,Geografia,GEO,6.3,2,Relações Estado e território,sim,sim
+GEO-7,Geografia,GEO,7,1,Geografia e gestão ambiental,sim,sim
+GEO-7.1,Geografia,GEO,7.1,2,O meio ambiente nas relações internacionais: questões conceituais e institucionais,sim,sim
+GEO-7.2,Geografia,GEO,7.2,2,"Macrodivisão natural do espaço brasileiro: biomas, domínios e ecossistemas",sim,sim
+GEO-7.3,Geografia,GEO,7.3,2,Política e gestão ambiental no Brasil,sim,sim
+ECO-1,Economia,ECO,1,1,Microeconomia,sim,sim
+ECO-1.1,Economia,ECO,1.1,2,Demanda do Consumidor,sim,sim
+ECO-1.1.1,Economia,ECO,1.1.1,3,Preferências,sim,sim
+ECO-1.1.2,Economia,ECO,1.1.2,3,Equilíbrio do consumidor,sim,sim
+ECO-1.1.3,Economia,ECO,1.1.3,3,Curva de demanda,sim,sim
+ECO-1.1.4,Economia,ECO,1.1.4,3,Elasticidade-preço e elasticidade-renda,sim,sim
+ECO-1.2,Economia,ECO,1.2,2,Oferta do Produtor,sim,sim
+ECO-1.2.1,Economia,ECO,1.2.1,3,Fatores de produção,sim,sim
+ECO-1.2.2,Economia,ECO,1.2.2,3,Função de produção,sim,sim
+ECO-1.2.3,Economia,ECO,1.2.3,3,Elasticidade-preço da oferta,sim,sim
+ECO-1.3,Economia,ECO,1.3,2,Tipos de Mercados e de bens,sim,sim
+ECO-1.3.1,Economia,ECO,1.3.1,3,"Concorrência perfeita, monopólio e oligopólio",sim,sim
+ECO-1.3.2,Economia,ECO,1.3.2,3,Determinação de preços e quantidades de equilíbrio,sim,sim
+ECO-1.3.3,Economia,ECO,1.3.3,3,Tipos de bens,sim,sim
+ECO-1.3.4,Economia,ECO,1.3.4,3,Bens públicos,sim,sim
+ECO-1.3.5,Economia,ECO,1.3.5,3,Bens rivais,sim,sim
+ECO-1.3.6,Economia,ECO,1.3.6,3,Recursos comuns e Bens comuns,sim,sim
+ECO-1.3.7,Economia,ECO,1.3.7,3,Externalidades,sim,sim
+ECO-2,Economia,ECO,2,1,Macroeconomia,sim,sim
+ECO-2.1,Economia,ECO,2.1,2,Contabilidade Nacional,sim,sim
+ECO-2.1.1,Economia,ECO,2.1.1,3,Os conceitos de renda e produto,sim,sim
+ECO-2.1.2,Economia,ECO,2.1.2,3,Teorias clássica e keynesiana de determinação da renda,sim,sim
+ECO-2.1.3,Economia,ECO,2.1.3,3,Oferta e demanda agregadas,sim,sim
+ECO-2.1.4,Economia,ECO,2.1.4,3,Agregados macroeconômicos: identidades básicas das contas nacionais,sim,sim
+ECO-2.2,Economia,ECO,2.2,2,Contas externas,sim,sim
+ECO-2.2.1,Economia,ECO,2.2.1,3,Os conceitos de déficit e superávit nas contas externas,sim,sim
+ECO-2.2.2,Economia,ECO,2.2.2,3,"Balanço de pagamentos: a conta de transações correntes, a conta de capital e financeira",sim,sim
+ECO-2.2.3,Economia,ECO,2.2.3,3,Indicadores de Liquidez Externa,sim,sim
+ECO-2.2.4,Economia,ECO,2.2.4,3,Indicadores de Solvência Externa,sim,sim
+ECO-2.3,Economia,ECO,2.3,2,Economia do Setor Público e Política Fiscal,sim,sim
+ECO-2.3.1,Economia,ECO,2.3.1,3,Gastos e receitas do governo,sim,sim
+ECO-2.3.2,Economia,ECO,2.3.2,3,Política orçamentária e equilíbrio orçamentário,sim,sim
+ECO-2.3.3,Economia,ECO,2.3.3,3,Conceitos de superávit e déficit público,sim,sim
+ECO-2.3.4,Economia,ECO,2.3.4,3,Abordagem Ricardiana da Dívida Pública,sim,sim
+ECO-2.3.5,Economia,ECO,2.3.5,3,Endividamento e responsabilidade fiscal,sim,sim
+ECO-2.3.6,Economia,ECO,2.3.6,3,Papel do Governo,sim,sim
+ECO-2.3.7,Economia,ECO,2.3.7,3,Objetivos e instrumentos de política fiscal,sim,sim
+ECO-2.3.8,Economia,ECO,2.3.8,3,Efeitos fiscais sobre a política monetária,sim,sim
+ECO-2.3.9,Economia,ECO,2.3.9,3,"Consumo, investimento, poupança e gasto do governo",sim,sim
+ECO-2.4,Economia,ECO,2.4,2,O modelo IS-LM-BP,sim,sim
+ECO-2.5,Economia,ECO,2.5,2,Teoria e Política monetária,sim,sim
+ECO-2.5.1,Economia,ECO,2.5.1,3,Funções da moeda,sim,sim
+ECO-2.5.2,Economia,ECO,2.5.2,3,Criação e distribuição de moeda,sim,sim
+ECO-2.5.3,Economia,ECO,2.5.3,3,Oferta da moeda e mecanismos de controle,sim,sim
+ECO-2.5.4,Economia,ECO,2.5.4,3,Procura da moeda,sim,sim
+ECO-2.5.5,Economia,ECO,2.5.5,3,Tipos de Inflação,sim,sim
+ECO-2.5.6,Economia,ECO,2.5.6,3,Moeda e preços no longo prazo,sim,sim
+ECO-2.5.7,Economia,ECO,2.5.7,3,Teoria Quantitativa da Moeda,sim,sim
+ECO-2.6,Economia,ECO,2.6,2,Política Monetária,sim,sim
+ECO-2.6.1,Economia,ECO,2.6.1,3,Papel do Banco Central,sim,sim
+ECO-2.6.2,Economia,ECO,2.6.2,3,Objetivos e instrumentos de política monetária,sim,sim
+ECO-2.6.3,Economia,ECO,2.6.3,3,Inflação e Taxa de Juros,sim,sim
+ECO-2.6.4,Economia,ECO,2.6.4,3,Política Monetária Não Convencional,sim,sim
+ECO-2.6.5,Economia,ECO,2.6.5,3,"Conceitos Básicos da Regulação e Supervisão do Sistema bancário, financeiro e do Mercado de Capitais",sim,sim
+ECO-2.7,Economia,ECO,2.7,2,Crescimento e Desenvolvimento Econômico,sim,sim
+ECO-2.7.1,Economia,ECO,2.7.1,3,Teorias de Crescimento Econômico,sim,sim
+ECO-2.7.2,Economia,ECO,2.7.2,3,O papel da inovação no crescimento econômico: os modelos Solow e Schumpeteriano,sim,sim
+ECO-2.8,Economia,ECO,2.8,2,Emprego e renda,sim,sim
+ECO-2.8.1,Economia,ECO,2.8.1,3,Conceito de Desemprego,sim,sim
+ECO-2.8.2,Economia,ECO,2.8.2,3,Tipos de Desemprego,sim,sim
+ECO-2.8.3,Economia,ECO,2.8.3,3,Determinação do nível de emprego,sim,sim
+ECO-2.8.4,Economia,ECO,2.8.4,3,Indicadores do mercado de trabalho,sim,sim
+ECO-2.8.5,Economia,ECO,2.8.5,3,Lei de Okun,sim,sim
+ECO-3,Economia,ECO,3,1,Economia internacional,sim,sim
+ECO-3.1,Economia,ECO,3.1,2,Teorias de Comércio,sim,sim
+ECO-3.1.1,Economia,ECO,3.1.1,3,"Teorias clássicas, Neoclássicas e contemporâneas do comércio internacional",sim,sim
+ECO-3.1.2,Economia,ECO,3.1.2,3,O comércio intrafirma e intra-setorial,sim,sim
+ECO-3.1.3,Economia,ECO,3.1.3,3,O papel das economias de escala e da concorrência imperfeita para o comércio internacional,sim,sim
+ECO-3.1.4,Economia,ECO,3.1.4,3,A crítica de Prebisch e da Cepal,sim,sim
+ECO-3.1.5,Economia,ECO,3.1.5,3,Deterioração dos termos de troca,sim,sim
+ECO-3.2,Economia,ECO,3.2,2,Macroeconomia aberta,sim,sim
+ECO-3.2.1,Economia,ECO,3.2.1,3,"Os fluxos internacionais de bens, capitais e serviços",sim,sim
+ECO-3.2.2,Economia,ECO,3.2.2,3,Regimes de câmbio,sim,sim
+ECO-3.2.3,Economia,ECO,3.2.3,3,Taxa de câmbio nominal e real,sim,sim
+ECO-3.2.4,Economia,ECO,3.2.4,3,Determinantes da Política Cambial,sim,sim
+ECO-3.2.5,Economia,ECO,3.2.5,3,A relação poupança externa-crescimento econômico,sim,sim
+ECO-3.2.6,Economia,ECO,3.2.6,3,A relação câmbio-juros-inflação,sim,sim
+ECO-3.3,Economia,ECO,3.3,2,"Efeitos de tarifas, quotas, subsídios e outros instrumentos de política comercial",sim,sim
+ECO-4,Economia,ECO,4,1,História econômica brasileira,sim,sim
+ECO-4.1,Economia,ECO,4.1,2,A economia brasileira no Século XIX,sim,sim
+ECO-4.1.1,Economia,ECO,4.1.1,3,A economia cafeeira,sim,sim
+ECO-4.2,Economia,ECO,4.2,2,Primeira República,sim,sim
+ECO-4.2.1,Economia,ECO,4.2.1,3,Políticas econômicas e evolução da economia brasileira,sim,sim
+ECO-4.2.2,Economia,ECO,4.2.2,3,Crescimento industrial,sim,sim
+ECO-4.2.3,Economia,ECO,4.2.3,3,Políticas de valorização do café,sim,sim
+ECO-4.3,Economia,ECO,4.3,2,A Industrialização Brasileira no Período 1930-1945,sim,sim
+ECO-4.3.1,Economia,ECO,4.3.1,3,O Modelo de Industrialização por Substituição de Importações (ISI),sim,sim
+ECO-4.3.2,Economia,ECO,4.3.2,3,Falhas e Críticas ao Modelo de ISI,sim,sim
+ECO-4.4,Economia,ECO,4.4,2,A década de 1950,sim,sim
+ECO-4.4.1,Economia,ECO,4.4.1,3,O Plano SALTE,sim,sim
+ECO-4.4.2,Economia,ECO,4.4.2,3,O Plano de Metas,sim,sim
+ECO-4.4.3,Economia,ECO,4.4.3,3,O pós-guerra e a Nova Fase de Industrialização,sim,sim
+ECO-4.5,Economia,ECO,4.5,2,O Período 1962-1967,sim,sim
+ECO-4.5.1,Economia,ECO,4.5.1,3,A desaceleração no crescimento,sim,sim
+ECO-4.5.2,Economia,ECO,4.5.2,3,O Plano Trienal de Desenvolvimento Econômico e Social,sim,sim
+ECO-4.5.3,Economia,ECO,4.5.3,3,Reformas do Programa de Ação Econômica do Governo (PAEG),sim,sim
+ECO-4.5.4,Economia,ECO,4.5.4,3,A Importância das reformas do PAEG para a retomada do crescimento em 1968,sim,sim
+ECO-4.6,Economia,ECO,4.6,2,A retomada do crescimento 1968-1973,sim,sim
+ECO-4.6.1,Economia,ECO,4.6.1,3,Causas do “Milagre Econômico”,sim,sim
+ECO-4.6.2,Economia,ECO,4.6.2,3,O Primeiro Plano Nacional de Desenvolvimento (I PND),sim,sim
+ECO-4.7,Economia,ECO,4.7,2,Desaceleração econômica e o segundo Plano Nacional de Desenvolvimento (II PND),sim,sim
+ECO-4.8,Economia,ECO,4.8,2,A crise dos anos oitenta,sim,sim
+ECO-4.8.1,Economia,ECO,4.8.1,3,A interrupção do financiamento externo e as políticas de ajuste,sim,sim
+ECO-4.8.2,Economia,ECO,4.8.2,3,Aceleração inflacionária e os planos de combate à inflação,sim,sim
+ECO-4.8.3,Economia,ECO,4.8.3,3,O debate sobre a natureza da inflação no Brasil,sim,sim
+ECO-4.9,Economia,ECO,4.9,2,Economia Brasileira nos anos noventa,sim,sim
+ECO-4.9.1,Economia,ECO,4.9.1,3,Abertura (comercial e financeira) parcial da economia brasileira,sim,sim
+ECO-4.9.2,Economia,ECO,4.9.2,3,O Plano Real,sim,sim
+ECO-5,Economia,ECO,5,1,"Bancos digitais, meios de pagamento e os desafios da transição do “dinheiro de plástico” para o “dinheiro digital” na economia do século XXI",sim,sim
+DIR-1,Direito,DIR,1,1,Normas jurídicas,sim,sim
+DIR-2,Direito,DIR,2,1,Personalidade jurídica,sim,sim
+DIR-3,Direito,DIR,3,1,"Constituição: conceito, classificações, primado da Constituição, controle de constitucionalidade",sim,sim
+DIR-4,Direito,DIR,4,1,"Estado: elementos, soberania, formas, modelos de divisão de competência com entes subnacionais, sistemas de governo",sim,sim
+DIR-5,Direito,DIR,5,1,Estado democrático de direito. Conceito e objetivos. Divisão de poderes,sim,sim
+DIR-6,Direito,DIR,6,1,Organização e competências dos poderes no Direito Brasileiro,sim,sim
+DIR-7,Direito,DIR,7,1,Processo legislativo brasileiro,sim,sim
+DIR-8,Direito,DIR,8,1,Direitos e garantias fundamentais no ordenamento jurídico brasileiro,sim,sim
+DIR-9,Direito,DIR,9,1,Administração Pública no Brasil. Princípios constitucionais da administração pública e dos servidores públicos. Estrutura da Administração Pública Federal. Atos administrativos. Processo e procedimento administrativo,sim,sim
+DIR-10,Direito,DIR,10,1,Licitações e contratos administrativos,sim,sim
+DIR-11,Direito,DIR,11,1,Responsabilidade civil do Estado,sim,sim
+DIR-12,Direito,DIR,12,1,"Direitos, deveres e responsabilidades do servidor público. Improbidade administrativa. Regime disciplinar e processo administrativo disciplinar",sim,sim
+DIR-13,Direito,DIR,13,1,Regime Jurídico dos Servidores do Serviço Exterior Brasileiro (Lei nº 11.440/2006),sim,sim
+DIR-14,Direito,DIR,14,1,Finanças públicas. Normas orçamentárias,sim,sim
+DIR-15,Direito,DIR,15,1,Direito Internacional. Desenvolvimento. Direito internacional Público (DIP) e o Direito Interno. Constituição e Direito Internacional. Estados federados e entes federados,sim,sim
+DIR-16,Direito,DIR,16,1,Princípios que regem o Brasil nas relações internacionais (art. 4º CF/1988),sim,sim
+DIR-17,Direito,DIR,17,1,DIP e direito internacional privado (Lei de Introdução às Normas do Direito Brasileiro),sim,sim
+DIR-18,Direito,DIR,18,1,Estado. Surgimento e extinção de Estados. Sucessão de Estados. Direitos e Deveres. Soberania. Reconhecimento de Estado e Governo,sim,sim
+DIR-19,Direito,DIR,19,1,Território. Formação do território brasileiro,sim,sim
+DIR-20,Direito,DIR,20,1,"Povo. Nacionalidade. Formas de aquisição, perda e reaquisição. Proteção a brasileiros no exterior. Direitos e deveres de nacionais no exterior. Dupla e/ou múltipla nacionalidade. Situação jurídica do estrangeiro. Extradição. Apatridia e polipatria. Asilo",sim,sim
+DIR-21,Direito,DIR,21,1,Jurisdição. Relações diplomáticas e consulares. Imunidades. Responsabilidade internacional do Estado. Proteção diplomática,sim,sim
+DIR-22,Direito,DIR,22,1,Sujeitos especiais do Direito Internacional,sim,sim
+DIR-23,Direito,DIR,23,1,Fontes do DIP. Tratados internacionais. Costume Internacional. Princípios Gerais. Jurisprudência e Doutrina. Atos Unilaterais. Atos de Organizações Internacionais. Analogia e Equidade. Normas imperativas (jus cogens). Obrigações erga omnes. Soft Law. Acordos executivos. Conflito entre fontes. Incorporação de fontes extraconvencionais ao Direito brasileiro,sim,sim
+DIR-24,Direito,DIR,24,1,Solução pacífica de controvérsias. Prática diplomática brasileira. Bons ofícios. Mediação. Investigação ou inquérito. Conciliação. Meios jurisdicionais. Arbitragem. Meios judiciais. Corte Internacional de Justiça. Outros tribunais internacionais,sim,sim
+DIR-25,Direito,DIR,25,1,Organizações internacionais. Incorporação ao direito brasileiro dos atos de organizações internacionais. Organização das Nações Unidas. Agências da Organização das Nações Unidas. Organização dos Estados Americanos. Carta Democrática Interamericana. Outras organizações internacionais regionais. Direito comparado,sim,sim
+DIR-26,Direito,DIR,26,1,Direito da Integração Regional. MERCOSUL. Relação com o Direito brasileiro. Órgão de Solução de Controvérsias. Jurisprudência,sim,sim
+DIR-27,Direito,DIR,27,1,Uso da força. Prática diplomática brasileira. Segurança coletiva. Uso da força e direitos humanos. Operações de manutenção da paz. Desarmamento e Não Proliferação. Controle de armas. Terrorismo,sim,sim
+DIR-28,Direito,DIR,28,1,Direito internacional dos direitos humanos. Exigibilidade. Tratados de direitos humanos ratificados pelo Brasil. Incorporação no direito brasileiro. Sistemas convencionais de petições. Conselho de Direitos Humanos. Órgãos de tratados. Sistema Interamericano de Direitos Humanos,sim,sim
+DIR-29,Direito,DIR,29,1,Conflitos armados e o direito internacional. Direito Internacional Humanitário. Direito Internacional dos Refugiados. O instituto do refúgio no direito brasileiro,sim,sim
+DIR-30,Direito,DIR,30,1,Direito penal internacional. Tribunais internacionais penais. Tribunal Penal Internacional,sim,sim
+DIR-31,Direito,DIR,31,1,Direito do comércio internacional. Organização Mundial do Comércio. Acordos. Órgão de Solução de Controvérsias. Jurisprudência,sim,sim
+DIR-32,Direito,DIR,32,1,Direito Internacional do Meio Ambiente. Direito Internacional do Mar. Tribunal Internacional do Direito do Mar,sim,sim
+DIR-33,Direito,DIR,33,1,"Direito internacional do trabalho. OIT. Convenções, recomendações e supervisão normativa",sim,sim
+DIR-34,Direito,DIR,34,1,Áreas além dos limites da jurisdição exclusiva dos Estados,sim,sim
+DIR-35,Direito,DIR,35,1,Cooperação Jurídica internacional. Matéria penal e cível. Regimes vigentes no direito brasileiro,sim,sim
+ESP-1,Língua Espanhola,ESP,1,1,"Elaboração de resumo, em espanhol, a partir de texto escrito em língua espanhola, em que serão avaliadas a capacidade de síntese e de reelaboração em um registro culto",nao,sim
+ESP-2,Língua Espanhola,ESP,2,1,"Versão de um texto em língua portuguesa para a língua espanhola, em que serão avaliados a fidelidade ao texto-fonte, o respeito à qualidade e ao registro do texto-fonte e a correção morfossintática e lexical",nao,sim
+FRA-1,Língua Francesa,FRA,1,1,"Elaboração de resumo, em francês, a partir de texto escrito em língua francesa, em que serão avaliadas a capacidade de síntese e de reelaboração em um registro culto",nao,sim
+FRA-2,Língua Francesa,FRA,2,1,"Versão de um texto em língua portuguesa para a língua francesa, em que serão avaliados a fidelidade ao texto-fonte, o respeito à qualidade e ao registro do texto-fonte e a correção morfossintática e lexical. ANEXO IV",nao,sim
