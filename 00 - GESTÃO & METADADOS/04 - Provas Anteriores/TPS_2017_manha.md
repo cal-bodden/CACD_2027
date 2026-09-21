@@ -1,6 +1,7 @@
 ---
 area: Provas Anteriores
 tags: []
+origem: autentico
 ---
 ## Questão 2 — TPS 2017 Manhã — Língua Portuguesa
 

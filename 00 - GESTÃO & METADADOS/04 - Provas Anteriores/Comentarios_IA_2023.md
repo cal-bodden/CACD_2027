@@ -1,6 +1,8 @@
 ---
 area: Provas Anteriores
 tags: []
+origem: comentario
+nota: gabaritos comentados gerados por IA — apenas explicação; nunca gabarito nem estatística (Regra 4)
 ---
 
 3. O huguenote citado faz uso de linguagem conotativa para matizar a antropofagia, comparando-a com a usura.

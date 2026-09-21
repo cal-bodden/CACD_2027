@@ -1,0 +1,92 @@
+#!/usr/bin/env python3
+"""registrar — classifica erros (feedback elaborativo) e gera o cartão no Anki.
+
+Processa: (a) respostas de sessões pendentes (erros + acertos com dúvida/chute) ainda não classificadas;
+          (b) registros de _sistema/erros.jsonl sem tipo_erro (ex.: carga inicial da prova 2026).
+Para cada um pede: tipo_erro, armadilha, PROPOSIÇÃO correta (reescrita) e a DISTORÇÃO (como a banca afirmou) → cartão
+CACD-Proposicao no deck CACD::Erros, tags disciplina::X topico::Y armadilha::Z. Duplicata é checada com canAddNotes.
+
+Uso:  registrar [--sincronizar]  (só cria no Anki os cartões que ficaram pendentes por falta de conexão)
+      registrar --prova-2026      (só os 78 registros da prova 2026)
+"""
+import json, os, sys, argparse, datetime, textwrap, urllib.request
+SIS = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
+ITENS = os.path.join(SIS, "itens.jsonl"); RESP = os.path.join(SIS, "respostas.jsonl"); ERROS = os.path.join(SIS, "erros.jsonl")
+TIPOS = {"1": "lacuna_conteudo", "2": "armadilha_logica", "3": "leitura", "4": "gestao_risco"}
+ARM = {"1": "negacao_sutil", "2": "atribuicao_errada", "3": "anacronismo", "4": "falsa_exclusividade", "5": "inversao_causal",
+       "6": "quantificador_universal", "7": "extrapolacao", "8": "outra"}
+ABREV = {"Língua Portuguesa": "LP", "Língua Inglesa": "ING", "História do Brasil": "HB", "História Mundial": "HM",
+         "Política Internacional": "PI", "Geografia": "GEO", "Economia": "ECO", "Direito": "DIR"}
+def jl(p): return [json.loads(l) for l in open(p, encoding="utf-8")] if os.path.exists(p) else []
+def anki(action, **params):
+    try:
+        r = urllib.request.urlopen(urllib.request.Request("http://localhost:8765", json.dumps({"action": action, "version": 6, "params": params}).encode()), timeout=15)
+        j = json.load(r); return (j["result"], j["error"])
+    except Exception as ex: return (None, str(ex))
+def criar_cartao(e, it):
+    d = ABREV[it["disciplina"]]; top = it.get("topico_edital") or f"{d}-?"
+    nota = {"deckName": "CACD::Erros", "modelName": "CACD-Proposicao",
+            "fields": {"Proposicao": e["proposicao"], "Armadilha": e["distorcao"], "Fonte": e["id_item"], "Origem": it.get("origem", "autentico"),
+                       "Disciplina": it["disciplina"], "Topico": top},
+            "tags": [f"disciplina::{d}", f"topico::{top}", f"armadilha::{e['armadilha']}", f"tipo::{e['tipo_erro']}", "cacd-2027"],
+            "options": {"allowDuplicate": False, "duplicateScope": "deck"}}
+    can, err = anki("canAddNotes", notes=[nota])
+    if err: return None, "anki offline: " + err
+    if not can or not can[0]: return None, "duplicata (canAddNotes=false) — cartão não criado"
+    nid, err = anki("addNote", note=nota)
+    return nid, err
+def perguntar(e, it, W=100):
+    print("\n" + "═" * W); print(f"{it['disciplina']} · {it['ano']} · {it['id']} · gabarito {e['gabarito']} · você {e['minha_resposta']} · conf {e.get('confianca') or '-'}")
+    ctx = it.get("contexto", "")
+    if ctx: print(textwrap.fill(("[contexto] " + ctx)[:1200] + ("…" if len(ctx) > 1200 else ""), W, subsequent_indent="  "))
+    print(); print(textwrap.fill(it["enunciado"], W)); print()
+    print("tipo_erro: 1 lacuna_conteudo · 2 armadilha_logica · 3 leitura · 4 gestao_risco     (p pular · q sair)")
+    t = input("  tipo> ").strip().lower()
+    if t in ("p", "q"): return t
+    print("armadilha: 1 negacao_sutil · 2 atribuicao_errada · 3 anacronismo · 4 falsa_exclusividade · 5 inversao_causal · 6 quantificador_universal · 7 extrapolacao · 8 outra")
+    ar = input("  armadilha> ").strip().lower()
+    if ar in ("p", "q"): return ar
+    e["tipo_erro"] = TIPOS.get(t, "lacuna_conteudo"); e["armadilha"] = ARM.get(ar, "outra")
+    print("PROPOSIÇÃO correta — reescreva com suas palavras o que é verdadeiro (não copie o enunciado):")
+    e["proposicao"] = input("  > ").strip()
+    print("DISTORÇÃO — a afirmação como a banca a fez (ou o que lhe pareceu errado no item certo):")
+    e["distorcao"] = input("  > ").strip()
+    nv = input("  nota vinculada (caminho/[[wikilink]] ou vazio)> ").strip(); e["nota_vinculada"] = nv or None
+    e["classificado_em"] = datetime.date.today().isoformat()
+    return "ok"
+def main():
+    ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    ap.add_argument("--sincronizar", action="store_true"); ap.add_argument("--prova-2026", action="store_true"); a = ap.parse_args()
+    itens = {i["id"]: i for i in jl(ITENS)}; erros = jl(ERROS); resp = jl(RESP)
+    if a.sincronizar:
+        n = 0
+        for e in erros:
+            if e.get("proposicao") and not e.get("anki_note_id"):
+                nid, err = criar_cartao(e, itens[e["id_item"]])
+                if nid: e["anki_note_id"] = nid; n += 1
+                else: print(e["id_item"], err)
+        print(f"{n} cartão(ões) criado(s)")
+    else:
+        # (a) respostas pendentes de sessões → novos registros em erros.jsonl
+        ja = {(e.get("sessao"), e["id_item"]) for e in erros}
+        for r in resp:
+            pend = (r["minha_resposta"] == "branco") or (r["correto"] is False) or (r["correto"] and r.get("confianca") in ("duvida", "chute"))
+            if pend and (r["sessao"], r["id_item"]) not in ja:
+                erros.append(dict(id_item=r["id_item"], data=r["data"], sessao=r["sessao"], minha_resposta=r["minha_resposta"], gabarito=r["gabarito"],
+                                  confianca=r.get("confianca"), tipo_erro=None, armadilha=None, nota_vinculada=None,
+                                  contexto_registro="sessao", resultado=("branco" if r["minha_resposta"] == "branco" else "erro" if r["correto"] is False else "acerto_inseguro")))
+                ja.add((r["sessao"], r["id_item"]))
+        fila = [e for e in erros if e.get("tipo_erro") is None and (not a.prova_2026 or e.get("contexto_registro") == "prova_2026")]
+        print(f"{len(fila)} registro(s) para classificar")
+        for e in fila:
+            it = itens.get(e["id_item"])
+            if not it: print("item desconhecido:", e["id_item"]); continue
+            r = perguntar(e, it)
+            if r == "q": break
+            if r == "p": continue
+            nid, err = criar_cartao(e, it)
+            if nid: e["anki_note_id"] = nid; print(f"  ✓ cartão criado no Anki (CACD::Erros)")
+            else: e["anki_note_id"] = None; print(f"  ⚠ {err} — use `registrar --sincronizar` depois")
+    with open(ERROS, "w", encoding="utf-8") as f:
+        for e in erros: f.write(json.dumps(e, ensure_ascii=False) + "\n")
+if __name__ == "__main__": main()

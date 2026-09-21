@@ -1,6 +1,7 @@
 ---
 area: Provas Anteriores
 tags: []
+origem: autentico
 ---
 
 ## Questão 34 — TPS 2024 Tarde — Língua Inglesa

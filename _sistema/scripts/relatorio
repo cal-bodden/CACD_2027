@@ -1,0 +1,83 @@
+#!/usr/bin/env python3
+"""relatorio — o que os dados dizem (somente itens autênticos).
+
+1. erro por disciplina × tipo_erro; armadilhas mais frequentes
+2. calibração: % de acerto por nível de confiança
+3. saldo líquido (Cebraspe +1/−0,25) real vs. se os "chutes" ficassem em branco
+4. evolução semanal: itens, % acerto, erro/marcados, brancos
+5. contato por disciplina (dias desde a última sessão) e pendências (erros sem classificação, cartões sem Anki)
+
+Uso:  relatorio [--semanas 8] [--salvar]   (--salvar grava _sistema/relatorios/AAAA-MM-DD.md)
+"""
+import json, os, sys, argparse, datetime, collections, urllib.request
+SIS = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
+def jl(p): return [json.loads(l) for l in open(p, encoding="utf-8")] if os.path.exists(p) else []
+ABREV = {"Língua Portuguesa": "LP", "Língua Inglesa": "ING", "História do Brasil": "HB", "História Mundial": "HM",
+         "Política Internacional": "PI", "Geografia": "GEO", "Economia": "ECO", "Direito": "DIR"}
+ORD = ["LP", "ING", "DIR", "GEO", "ECO", "PI", "HM", "HB"]
+def tabela(cab, linhas):
+    out = ["| " + " | ".join(cab) + " |", "|" + "|".join("---" if i == 0 else "--:" for i in range(len(cab))) + "|"]
+    out += ["| " + " | ".join(str(x) for x in l) + " |" for l in linhas]; return "\n".join(out)
+def main():
+    ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    ap.add_argument("--semanas", type=int, default=8); ap.add_argument("--salvar", action="store_true"); a = ap.parse_args()
+    itens = {i["id"]: i for i in jl(os.path.join(SIS, "itens.jsonl"))}
+    aut = lambda idi: itens.get(idi, {}).get("origem") == "autentico"
+    erros = [e for e in jl(os.path.join(SIS, "erros.jsonl")) if aut(e["id_item"])]
+    resp = [r for r in jl(os.path.join(SIS, "respostas.jsonl")) if aut(r["id_item"])]
+    hoje = datetime.date.today(); L = [f"# Relatório — {hoje.isoformat()}", ""]
+    # 1. erro por disciplina × tipo
+    tipos = ["lacuna_conteudo", "armadilha_logica", "leitura", "gestao_risco", "(sem classificar)"]
+    m = collections.defaultdict(collections.Counter)
+    for e in erros:
+        if e.get("resultado") in ("erro", "branco", None) or e.get("resultado") == "acerto_inseguro" and False:
+            d = ABREV[itens[e["id_item"]]["disciplina"]]; m[d][e.get("tipo_erro") or "(sem classificar)"] += 1
+    L += ["## 1. Erros e brancos por disciplina × tipo de erro", "", tabela(["disc"] + tipos + ["total"], [[d] + [m[d][t] for t in tipos] + [sum(m[d].values())] for d in ORD if m[d]]), ""]
+    arm = collections.Counter(e["armadilha"] for e in erros if e.get("armadilha"))
+    if arm: L += ["Armadilhas classificadas: " + " · ".join(f"{k} {v}" for k, v in arm.most_common()), ""]
+    # 2. calibração
+    cal = collections.defaultdict(lambda: [0, 0])
+    for r in resp:
+        if r["minha_resposta"] in ("C", "E"): cal[r.get("confianca") or "?"][1] += 1; cal[r.get("confianca") or "?"][0] += bool(r["correto"])
+    L += ["## 2. Calibração (sessões)", ""]
+    if resp:
+        L += [tabela(["confiança", "itens", "% acerto", "leitura"], [[c, n, f"{100*ok/n:.0f}%", ("bem calibrado" if (c == "certeza" and ok/n >= .85) or (c == "chute" and ok/n <= .6) else "revisar")] for c, (ok, n) in cal.items() if n]), ""]
+        # 3. saldo líquido
+        A = sum(1 for r in resp if r["correto"]); E = sum(1 for r in resp if r["correto"] is False); B = sum(1 for r in resp if r["minha_resposta"] == "branco")
+        Ac = sum(1 for r in resp if r["correto"] and r.get("confianca") == "chute"); Ec = sum(1 for r in resp if r["correto"] is False and r.get("confianca") == "chute")
+        L += ["## 3. Saldo líquido (regra +1 / −0,25)", "", f"- real: {A} acertos, {E} erros, {B} brancos → **{A - 0.25*E:.2f}**",
+              f"- se os chutes ({Ac + Ec}) ficassem em branco: {A - Ac} acertos, {E - Ec} erros → **{(A - Ac) - 0.25*(E - Ec):.2f}**",
+              f"- veredito: chutar {'compensa' if Ac - 0.25*Ec > 0 else 'NÃO compensa'} (saldo dos chutes = {Ac - 0.25*Ec:+.2f}); ponto de equilíbrio = 20% de acerto no chute", ""]
+        # 4. semanal
+        sem = collections.defaultdict(lambda: [0, 0, 0])
+        for r in resp:
+            y, w, _ = datetime.date.fromisoformat(r["data"]).isocalendar(); k = f"{y}-S{w:02d}"
+            if r["minha_resposta"] == "branco": sem[k][2] += 1
+            else: sem[k][0] += 1; sem[k][1] += (r["correto"] is False)
+        ks = sorted(sem)[-a.semanas:]
+        L += ["## 4. Evolução semanal", "", tabela(["semana", "marcados", "erros", "erro/marcados", "brancos"], [[k, sem[k][0], sem[k][1], f"{100*sem[k][1]/sem[k][0]:.0f}%" if sem[k][0] else "-", sem[k][2]] for k in ks]), ""]
+        # por disciplina (últimos 30 d)
+        c30 = (hoje - datetime.timedelta(days=30)).isoformat(); pd = collections.defaultdict(lambda: [0, 0, 0])
+        for r in resp:
+            if r["data"] >= c30:
+                if r["minha_resposta"] == "branco": pd[r["disc"]][2] += 1
+                else: pd[r["disc"]][0] += 1; pd[r["disc"]][1] += (r["correto"] is False)
+        L += ["### Últimos 30 dias por disciplina", "", tabela(["disc", "marcados", "erros", "erro/marcados", "brancos"], [[d, pd[d][0], pd[d][1], f"{100*pd[d][1]/pd[d][0]:.0f}%" if pd[d][0] else "-", pd[d][2]] for d in ORD if pd[d]]), ""]
+    else:
+        L += ["_Nenhuma sessão registrada ainda — rode `sessao`._", ""]
+    # 5. contato e pendências
+    ult = {}
+    for r in resp: ult[r["disc"]] = max(ult.get(r["disc"], ""), r["data"])
+    L += ["## 5. Contato e pendências", "", tabela(["disc", "última sessão", "dias"], [[d, ult.get(d, "nunca"), (hoje - datetime.date.fromisoformat(ult[d])).days if d in ult else "-"] for d in ORD]), ""]
+    sem_cls = sum(1 for e in erros if not e.get("tipo_erro")); sem_anki = sum(1 for e in erros if e.get("proposicao") and not e.get("anki_note_id"))
+    L += [f"- erros sem classificação: **{sem_cls}** (`registrar`)", f"- cartões pendentes de Anki: **{sem_anki}** (`registrar --sincronizar`)"]
+    try:
+        r = urllib.request.urlopen(urllib.request.Request("http://localhost:8765", json.dumps({"action": "findCards", "version": 6, "params": {"query": '"deck:CACD::Erros" is:due'}}).encode()), timeout=5)
+        due = len(json.load(r)["result"]); r = urllib.request.urlopen(urllib.request.Request("http://localhost:8765", json.dumps({"action": "findCards", "version": 6, "params": {"query": '"deck:CACD::Erros"'}}).encode()), timeout=5)
+        L.append(f"- Anki CACD::Erros: {len(json.load(r)['result'])} cartões, {due} a revisar hoje")
+    except Exception: L.append("- Anki: offline")
+    txt = "\n".join(L); print(txt)
+    if a.salvar:
+        os.makedirs(os.path.join(SIS, "relatorios"), exist_ok=True); p = os.path.join(SIS, "relatorios", hoje.isoformat() + ".md")
+        open(p, "w", encoding="utf-8").write(txt + "\n"); print(f"\n[salvo em {os.path.relpath(p, SIS)}]")
+if __name__ == "__main__": main()

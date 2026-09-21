@@ -1,6 +1,8 @@
 ---
 area: Provas Anteriores
 tags: []
+origem: comentario
+nota: gabaritos comentados gerados por IA — apenas explicação; nunca gabarito nem estatística (Regra 4)
 ---
 
 3. Infere-se do texto que as nações latino-americanas não são lembradas pela imprensa europeia, ou, quando o são, servem, no máximo, como objeto de críticas, de "sentenças condenatórias".

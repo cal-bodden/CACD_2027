@@ -1,6 +1,8 @@
 ---
 area: Provas Anteriores
 tags: []
+origem: comentario
+nota: gabaritos comentados gerados por IA — apenas explicação; nunca gabarito nem estatística (Regra 4)
 ---
 
 3. Ao repetir "meu nome" (linhas 10 e 14), José Bonifácio luta contra seu esquecimento por meio do apelo ao sacrifício pela Pátria.

@@ -1,0 +1,112 @@
+#!/usr/bin/env python3
+"""sessao — bateria de itens intercalados (prática de recuperação + intercalação + calibração).
+
+Sorteia N itens autênticos ponderados por: prioridade da disciplina × taxa de erro recente × tempo sem contato.
+Mostra item por item SEM gabarito; registra resposta (C/E/branco) e confiança (certeza/dúvida/chute) em
+_sistema/respostas.jsonl. Ao final, corrige e mostra o que vai para `registrar`.
+
+Uso:  sessao [-n 20] [-d LP,ING,DIR] [--anos 2024,2025,2026] [--so-erros] [--banca CEBRASPE] [--seed 1]
+Teclas durante a sessão:  c1 / e2 / b  (letra = resposta, número = confiança: 1 certeza · 2 dúvida · 3 chute)
+                          b = branco · p = pular · q = encerrar (salva o que foi respondido)
+"""
+import json, os, sys, random, argparse, datetime, collections, textwrap, math
+SIS = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
+ITENS = os.path.join(SIS, "itens.jsonl"); RESP = os.path.join(SIS, "respostas.jsonl"); ERROS = os.path.join(SIS, "erros.jsonl")
+ABREV = {"Língua Portuguesa": "LP", "Língua Inglesa": "ING", "História do Brasil": "HB", "História Mundial": "HM",
+         "Política Internacional": "PI", "Geografia": "GEO", "Economia": "ECO", "Direito": "DIR"}
+# prioridade (missão 2027): 3 = alta · 2 = manutenção espaçada · 1 = manutenção mínima. Editável em _sistema/prioridades.json
+PRIO = {"LP": 3, "ING": 3, "DIR": 3, "GEO": 2.5, "ECO": 2, "PI": 2, "HM": 1.5, "HB": 1}
+CONF = {"1": "certeza", "2": "duvida", "3": "chute"}
+def jl(p): return [json.loads(l) for l in open(p, encoding="utf-8")] if os.path.exists(p) else []
+def hoje(): return datetime.date.today().isoformat()
+def main():
+    ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    ap.add_argument("-n", type=int, default=20); ap.add_argument("-d", "--disciplinas", default="")
+    ap.add_argument("--anos", default=""); ap.add_argument("--banca", default=""); ap.add_argument("--so-erros", action="store_true")
+    ap.add_argument("--seed", type=int); ap.add_argument("--largura", type=int, default=100)
+    a = ap.parse_args(); rnd = random.Random(a.seed)
+    pj = os.path.join(SIS, "prioridades.json")
+    if os.path.exists(pj): PRIO.update(json.load(open(pj)))
+    itens = [i for i in jl(ITENS) if i.get("origem") == "autentico" and not i.get("anulado") and i.get("gabarito") in ("C", "E") and i.get("enunciado")]
+    if a.disciplinas: ds = {d.strip().upper() for d in a.disciplinas.split(",")}; itens = [i for i in itens if ABREV[i["disciplina"]] in ds]
+    if a.anos: ys = {int(y) for y in a.anos.split(",")}; itens = [i for i in itens if i["ano"] in ys]
+    if a.banca: itens = [i for i in itens if i.get("banca", "").upper() == a.banca.upper()]
+    resp = jl(RESP); erros = jl(ERROS)
+    ultimo = {}; ult_disc = {}; recente = collections.defaultdict(lambda: [0, 0])   # disc -> [erros, marcados] últimos 60 d
+    corte = (datetime.date.today() - datetime.timedelta(days=60)).isoformat()
+    corte30 = (datetime.date.today() - datetime.timedelta(days=30)).isoformat()
+    for r in resp:
+        ultimo[r["id_item"]] = max(ultimo.get(r["id_item"], ""), r["data"]); d = r.get("disc")
+        if d: ult_disc[d] = max(ult_disc.get(d, ""), r["data"])
+        if d and r["data"] >= corte and r["minha_resposta"] in ("C", "E"):
+            recente[d][1] += 1; recente[d][0] += (r["minha_resposta"] != r["gabarito"])
+    # sem histórico de sessões: taxa de erro da prova 2026 (erros/marcados)
+    base = {"LP": .237, "ING": .30, "DIR": .417, "ECO": .364, "GEO": .273, "PI": .289, "HM": .292, "HB": .111}
+    ja_errados = {e["id_item"] for e in erros}
+    if a.so_erros: itens = [i for i in itens if i["id"] in ja_errados]
+    acertos_recentes = {r["id_item"] for r in resp if r["data"] >= corte30 and r["minha_resposta"] == r["gabarito"]}
+    pool = [i for i in itens if i["id"] not in acertos_recentes] or itens
+    if not pool: sys.exit("nenhum item disponível com esses filtros")
+    def peso_disc(d):
+        e, m = recente[d]; taxa = (e / m) if m >= 10 else base.get(d, .3)
+        dias = (datetime.date.today() - datetime.date.fromisoformat(ult_disc[d])).days if d in ult_disc else 30
+        return PRIO.get(d, 1) * (0.15 + taxa) * (1 + min(dias, 60) / 30)
+    por_disc = collections.defaultdict(list)
+    for i in pool: por_disc[ABREV[i["disciplina"]]].append(i)
+    discs = list(por_disc); pesos = [peso_disc(d) for d in discs]
+    escolhidos = []; usados = set()
+    while len(escolhidos) < min(a.n, len(pool)):
+        d = rnd.choices(discs, weights=pesos)[0]
+        cand = [i for i in por_disc[d] if i["id"] not in usados]
+        if not cand: continue
+        # preferir nunca respondidos; depois os respondidos há mais tempo
+        cand.sort(key=lambda i: (ultimo.get(i["id"], "0000"), rnd.random()))
+        top = cand[:max(5, len(cand) // 10)]; it = rnd.choice(top); usados.add(it["id"]); escolhidos.append(it)
+    # intercalar: evitar duas seguidas da mesma disciplina quando possível
+    for k in range(1, len(escolhidos)):
+        if ABREV[escolhidos[k]["disciplina"]] == ABREV[escolhidos[k-1]["disciplina"]]:
+            for j in range(k+1, len(escolhidos)):
+                if ABREV[escolhidos[j]["disciplina"]] != ABREV[escolhidos[k-1]["disciplina"]]:
+                    escolhidos[k], escolhidos[j] = escolhidos[j], escolhidos[k]; break
+    sess = datetime.datetime.now().strftime("%Y%m%d-%H%M"); W = a.largura
+    print(f"\n=== SESSÃO {sess} · {len(escolhidos)} itens · pesos: " + " ".join(f"{d}={w:.1f}" for d, w in sorted(zip(discs, pesos), key=lambda x: -x[1])) + " ===")
+    print("Responda: c1 / e2 / b (letra = C/E/branco · número = 1 certeza, 2 dúvida, 3 chute) · p pular · q encerrar\n")
+    respostas = []; ctx_ant = None
+    for k, it in enumerate(escolhidos, 1):
+        d = ABREV[it["disciplina"]]
+        print(f"─── {k}/{len(escolhidos)} · {it['disciplina']} · {it['ano']} {it['banca']} · {it['id']} ───")
+        ctx = it.get("contexto", "")
+        if ctx and ctx != ctx_ant:
+            print(textwrap.fill(("[contexto] " + ctx)[:1800] + ("…" if len(ctx) > 1800 else ""), W, subsequent_indent="  ")); print()
+        ctx_ant = ctx
+        print(textwrap.fill(it["enunciado"], W)); print()
+        while True:
+            s = input("  resposta> ").strip().lower()
+            if s == "q": break
+            if s == "p": respostas.append((it, "pulado", None)); break
+            if s == "b": respostas.append((it, "branco", None)); break
+            if len(s) == 2 and s[0] in "ce" and s[1] in "123": respostas.append((it, s[0].upper(), CONF[s[1]])); break
+            print("  use c1/c2/c3, e1/e2/e3, b, p ou q")
+        if s == "q": break
+        print()
+    # gravar + corrigir
+    linhas = []; A = E = B = 0; pend = []
+    for it, r, c in respostas:
+        if r == "pulado": continue
+        g = it["gabarito"]; ok = (r == g)
+        linhas.append(dict(sessao=sess, data=hoje(), id_item=it["id"], disc=ABREV[it["disciplina"]], minha_resposta=r, confianca=c, gabarito=g, correto=(ok if r != "branco" else None)))
+        if r == "branco": B += 1
+        elif ok: A += 1
+        else: E += 1
+        if r == "branco" or not ok or c in ("duvida", "chute"): pend.append((it, r, c, g))
+    if linhas:
+        with open(RESP, "a", encoding="utf-8") as f:
+            for l in linhas: f.write(json.dumps(l, ensure_ascii=False) + "\n")
+    print("\n=== CORREÇÃO ===")
+    for it, r, c, g in [(it, r, c, it["gabarito"]) for it, r, c in respostas if r != "pulado"]:
+        mark = "·" if r == "branco" else ("✓" if r == g else "✗")
+        print(f" {mark} {it['id']:<18} {ABREV[it['disciplina']]:<4} você={r:<6} conf={c or '-':<8} gabarito={g}")
+    n = A + E
+    print(f"\nacertos {A} · erros {E} · brancos {B} · líquido {A - 0.25*E:.2f} (regra Cebraspe +1/−0,25) · erro/marcados {100*E/n if n else 0:.0f}%")
+    print(f"{len(pend)} item(ns) para classificar (erros + acertos com dúvida/chute) → rode:  registrar")
+if __name__ == "__main__": main()

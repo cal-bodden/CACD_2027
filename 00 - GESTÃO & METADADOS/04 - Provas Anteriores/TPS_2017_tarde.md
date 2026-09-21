@@ -1,6 +1,7 @@
 ---
 area: Provas Anteriores
 tags: []
+origem: autentico
 ---
 ## Questão 36 — TPS 2017 Tarde — Língua Inglesa
 

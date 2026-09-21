@@ -1,6 +1,7 @@
 ---
 area: Provas Anteriores
 tags: []
+origem: autentico
 ---
 
 ## Questão 1 — TPS 2022 Manhã — Língua Portuguesa

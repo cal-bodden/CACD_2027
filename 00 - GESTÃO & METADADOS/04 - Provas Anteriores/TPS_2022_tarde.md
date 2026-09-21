@@ -1,6 +1,7 @@
 ---
 area: Provas Anteriores
 tags: []
+origem: autentico
 ---
 
 ## Questão 35 — TPS 2022 Tarde — Língua Inglesa
