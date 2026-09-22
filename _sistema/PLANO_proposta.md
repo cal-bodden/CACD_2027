@@ -130,3 +130,27 @@ Aritmética até a aprovação (P1 §2): 22 erros evitados = **+30,5 pontos** �
 ## 11. Como o método se corrige a si mesmo
 
 `sessao` pesa cada disciplina por **prioridade × taxa de erro (60 d) × dias sem contato**; portanto, uma disciplina que melhora sai de foco sozinha e uma que decai volta. Os pesos aparecem no cabeçalho de cada sessão. Mudanças estruturais (blocos, metas, prioridades) só na revisão mensal (§4), com o `relatorio` na mão.
+
+## 12. Pendências — próxima sessão (21/09/2026)
+
+Decisões e tarefas que ficaram abertas ao fim da implantação. Eu (Calebe) resolvo as de decisão; o Claude executa as demais no início da próxima sessão.
+
+**Decisões (você)**
+- [ ] Aprovar este plano (ou ajustar): bloco 3 diário (35 min) **ou** 3×/semana? → depois disso o Claude renomeia para `PLANO.md` 📅 2026-09-22
+- [ ] Confirmar no Anki que o FSRS está ativo na coleção (Configurações do preset → "FSRS") 📅 2026-09-22
+- [ ] Primeira rodada de `registrar --prova-2026`: classificar pelo menos 10 dos 78 registros da prova 2026 (tipo, armadilha, proposição, distorção) — os primeiros cartões nascem daí 📅 2026-09-22
+- [ ] Rodar `sessao -n 30` uma vez de verdade e anotar o que atrapalha na interface (largura, contexto longo, teclas) 📅 2026-09-22
+
+**Execução (Claude, na próxima sessão)**
+- [ ] Renomear `PLANO_proposta.md` → `PLANO.md`; atualizar `CLAUDE.md` e `DIAGNOSTICO.md` (status), commit 📅 2026-09-22
+- [ ] Verificar no Obsidian que o bloco ```tasks do §0 renderiza; se não, trocar por lista simples 📅 2026-09-22
+- [ ] Revisar o `topico_edital` dos 78 itens da prova 2026 em `erros.jsonl` (590 itens do banco estão `topico_incerto`) para que os cartões saiam com tópico certo 📅 2026-09-22
+- [ ] Extrair de MATERIAIS as questões 1 (manhã) e 35 (tarde) de 2020 — únicas da lacuna 2017–2020 com PDF disponível 📅 2026-09-22
+- [ ] Criar `_sistema/prioridades.json` a partir da tabela do §7 (hoje os pesos estão só no `sessao`) 📅 2026-09-22
+- [ ] Ajustes na interface do `sessao` conforme a tarefa acima 📅 2026-09-22
+
+**Registradas, sem ação agora**
+- 2011–2015 (CESPE) e 2021 (IADES): sem caderno nem gabarito local. Mesma banca de 2027 nos anos CESPE — vale procurar.
+- 2025: sem folha de respostas; só a tabela por disciplina.
+- 2017–2019: gabaritos do vault sem conferência oficial (não há PDF).
+- Léxico não classifica LP/ING por tópico do edital (742 itens só com disciplina).
